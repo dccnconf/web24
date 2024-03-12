@@ -10,6 +10,7 @@ config.autoAddCss = false // Tell Font Awesome to skip adding the CSS automatica
 
 library.add(faNetworkWired, faWaveSquare, faDesktop, faYoutube);
 
+
 export default function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }
