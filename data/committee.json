@@ -19,10 +19,10 @@
   "avatar": "/images/avatars/kozyrev.jpeg",
   "order": 3
 }, {
-  "name": "Nika Ivanova",
-  "slug": "nika",
-  "affiliations": [{"slug":  "ipu"}],
-  "avatar": "/images/avatars/ivanova_nika.jpg",
+  "name": "Irina Kochetkova",
+  "slug": "gudkova",
+  "affiliations": [{"slug":  "rudn"}],
+  "avatar": "/images/avatars/gudkova.jpeg",
   "order": 4
 }, {
   "name": "Yana Aleksandrova",
@@ -37,10 +37,10 @@
   "avatar": "/images/avatars/moiseeva.png",
   "order": 6
 }, {
-  "name": "Irina Kochetkova",
-  "slug": "gudkova",
-  "affiliations": [{"slug":  "rudn"}],
-  "avatar": "/images/avatars/gudkova.jpeg",
+  "name": "Nika Ivanova",
+  "slug": "nika",
+  "affiliations": [{"slug":  "ipu"}],
+  "avatar": "/images/avatars/ivanova_nika.jpg",
   "order": 7
 }, {
   "name": "Tatiana Atanasova",
