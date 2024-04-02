@@ -144,5 +144,11 @@
 }, {
   "name": "A. Zaslavsky",
   "affiliations": [{"slug":"deakin"}]
+}, {
+  "name": "I. Kochetkova",
+  "affiliations": [{"slug":"rudn"}]
+}, {
+  "name": "A. Rumyantsev",
+  "affiliations": [{"slug":"karelia"}]
 }
 ]
