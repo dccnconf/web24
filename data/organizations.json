@@ -306,5 +306,10 @@
   "slug": "nust",
   "name": "Namibia University of Science and Technology",
   "country": "Nambia"
+}, {
+  "id": 52,
+  "slug": "beu",
+  "name": "Baku Engineering University",
+  "country": "Azerbaijan"
 }
 ]
