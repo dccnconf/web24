@@ -1,13 +1,16 @@
 [{
   "event": "End of papers submission",
   "important": true,
-  "date": "15.05.2024"
+  "oldDate": "15.05.2024",
+  "date": "01.06.2024"
 }, {
   "event": "Start of peer review",
-  "date": "15.05.2024"
+  "oldDate": "15.05.2024",
+  "date": "01.06.2024"
 }, {
   "event": "End of workshop proposals submission",
-  "date": "15.05.2024"
+  "oldDate": "15.05.2024",
+  "date": "01.06.2024"
 }, {
   "event": "Deadline for camera-ready submissions (regular papers)",
   "date": "15.06.2024"
