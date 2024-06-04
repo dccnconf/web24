@@ -80,7 +80,7 @@ export default function Navbar({active = 'conference'}) {
                 <ConferenceMenu onClick={closeAll}/>
               </NavbarDropdownItem>
 
-              {/*<NavbarLink text="Authors" isActive={active === 'authors'} href="/authors"/>*/}
+              <NavbarLink text="Authors" isActive={active === 'authors'} href="/authors"/>
 
               {/*<NavbarDropdownItem*/}
               {/*  isActive={active === 'program'}*/}
@@ -138,7 +138,7 @@ export default function Navbar({active = 'conference'}) {
                   <div className="py-6 px-5 space-y-6">
                     <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 gap-y-4">
                       <NavbarLink text="Conference" href="/" onClick={closeAll}/>
-                      {/*<NavbarLink text="Authors" href="/authors" onClick={closeAll}/>*/}
+                      <NavbarLink text="Authors" href="/authors" onClick={closeAll}/>
                       {/*<NavbarLink text="Program" href="/program" onClick={closeAll}/>*/}
                       <NavbarLink text="Contact Us" href="/support" onClick={closeAll}/>
                     </div>
@@ -205,15 +205,15 @@ const ConferenceMenu = ({onClick}) => (
 );
 
 
-// const AuthorsMenu = ({onClick}) => (
-//   <>
-//     <NavbarDropdownMenuItem
-//       href="/authors" icon={faPenNib} text="Call for Papers" iconClassName="mx-2"
-//       comment="Authors guidelines, requirements and conference topics"
-//       onClick={onClick}
-//     />
-//   </>
-// );
+const AuthorsMenu = ({onClick}) => (
+  <>
+    <NavbarDropdownMenuItem
+      href="/authors" icon={faPenNib} text="Call for Papers" iconClassName="mx-2"
+      comment="Authors guidelines, requirements and conference topics"
+      onClick={onClick}
+    />
+  </>
+);
 
 
 const ProgramMenu = ({onClick}) => (
