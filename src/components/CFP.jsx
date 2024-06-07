@@ -24,25 +24,25 @@ const CFP = ({topics, className = ""} = {}) => {
       </a>
     </div>
 
-    {/*<p className="md:text-lg mt-8">*/}
-    {/*  For your convenience, we made available the DCCN templates in the scientific authoring platform Overleaf:*/}
-    {/*</p>*/}
-    {/*<div className="mt-4 pl-8">*/}
-    {/*  <a href="https://www.overleaf.com/latex/templates/dccn2023-latex-ru/wwfcfgyycsxj"*/}
-    {/*     target="_blank"*/}
-    {/*     className="text-indigo-700">*/}
-    {/*    <FontAwesomeIcon icon={faLink} size="lg" className="mr-3"/>*/}
-    {/*    <span className="text-lg align-middle">Overleaf DCCN'2024 Submission Template (RUS)</span>*/}
-    {/*  </a>*/}
-    {/*</div>*/}
-    {/*<div className="mt-4 pl-8">*/}
-    {/*  <a href="https://www.overleaf.com/latex/templates/dccn2023-submission-template-eng/stvdgxcjsggd"*/}
-    {/*     target="_blank"*/}
-    {/*     className="text-indigo-700">*/}
-    {/*    <FontAwesomeIcon icon={faLink} size="lg" className="mr-3"/>*/}
-    {/*    <span className="text-lg align-middle">Overleaf DCCN'2024 Submission Template (ENG)</span>*/}
-    {/*  </a>*/}
-    {/*</div>*/}
+    <p className="md:text-lg mt-8">
+      For your convenience, we made available the DCCN templates in the scientific authoring platform Overleaf:
+    </p>
+    <div className="mt-4 pl-8">
+      <a href="https://www.overleaf.com/latex/templates/dccn2024-latex-ru/twkvpjwqpbfj"
+         target="_blank"
+         className="text-indigo-700">
+        <FontAwesomeIcon icon={faLink} size="lg" className="mr-3"/>
+        <span className="text-lg align-middle">Overleaf DCCN'2024 Submission Template (RUS)</span>
+      </a>
+    </div>
+    <div className="mt-4 pl-8">
+      <a href="https://www.overleaf.com/latex/templates/dccn2024-submission-template-eng/dgycmnndxktc"
+         target="_blank"
+         className="text-indigo-700">
+        <FontAwesomeIcon icon={faLink} size="lg" className="mr-3"/>
+        <span className="text-lg align-middle">Overleaf DCCN'2024 Submission Template (ENG)</span>
+      </a>
+    </div>
 
     <p className="md:text-lg mt-8">
       After a peer review and plagiarism check, authors of selected submissions in English, recommended by the Program Committee,
