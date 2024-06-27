@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "ateya",
+    "name": " Abdelhamied A. Ateya",
+    "appeal": "Prof.",
+    "country": "Saudi Arabia",
+    "affiliations": [
+      {
+        "name": "Zagazig University and Prince Sultan University",
+        "department": null,
+        "city": "Riyadh",
+        "country": "Saudi Arabiaate",
+        "position": "Professor"
+      }
+    ],
+    "avatar": "/images/avatars/ateya.png"
+  },
+  {
+    "slug": "laouid",
+    "name": "Abdelkader Laouid",
+    "appeal": "Prof.",
+    "country": "Algeria",
+    "affiliations": [
+      {
+        "name": "University of El Oued",
+        "department": null,
+        "city": null,
+        "country": "Algeria",
+        "position": "Professor"
+      }
+    ],
+    "avatar": "/images/avatars/laouid.png"
+  },
+  {
+    "slug": "sharma",
+    "name": "Sachin Sharma",
+    "appeal": "Dr.",
+    "country": "India",
+    "affiliations": [
+      {
+        "name": "State Bank of India",
+        "department": null,
+        "city": null,
+        "country": "India",
+        "position": null
+      }
+    ],
+    "avatar": "/images/avatars/sharma.jpg"
+  }
+]
