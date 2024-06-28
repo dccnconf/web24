@@ -46,5 +46,21 @@
       }
     ],
     "avatar": "/images/avatars/sharma.jpg"
+  },
+  {
+    "slug": "kumar",
+    "name": "Neeraj Kumar",
+    "appeal": "Prof.",
+    "country": "India",
+    "affiliations": [
+      {
+        "name": "Thapar Institute of Engineering & Technology",
+        "department": null,
+        "city": null,
+        "country": "India",
+        "position": "Full Professor"
+      }
+    ],
+    "avatar": "/images/avatars/kumar.jpg"
   }
 ]
