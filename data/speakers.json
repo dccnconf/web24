@@ -62,5 +62,21 @@
       }
     ],
     "avatar": "/images/avatars/kumar.jpg"
+  },
+  {
+    "slug": "muthanna",
+    "name": "Ammar Muthanna",
+    "appeal": "Prof.",
+    "country": "Russia",
+    "affiliations": [
+      {
+        "name": "Bonch-Bruevich Saint Petersburg State University of Telecommunications",
+        "department": null,
+        "city": null,
+        "country": "Russia",
+        "position": "Professor"
+      }
+    ],
+    "avatar": "/images/avatars/muthanna.jpg"
   }
 ]
