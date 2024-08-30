@@ -22,7 +22,8 @@
   "date": "15.07.2024"
 },{
   "event": "Fee payment deadline",
-  "date": "25.08.2024"
+  "oldDate": "25.08.2024",
+  "date": "10.09.2024"
 }, {
   "event": "Conference in Moscow",
   "important": true,
