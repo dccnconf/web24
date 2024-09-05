@@ -4,12 +4,11 @@ const Fees = ({ fees, className = "" }) => {
   return (
     <div className={className}>
       <p className="md:leading-7 md:text-xl text-gray-700">
-        At least one author per accepted paper must pay the registration fee and present the paper in the conference session where the paper is scheduled.
+        At least one author per accepted paper must pay the registration fee and present the paper in the conference session where the paper is scheduled. Please note, that once the registration payment is done, <span className="text-red-800 font-bold">no refund is available</span>.
         {/*Please note, that once the registration payment is done, <span className="text-red-800 font-bold">no refund is available</span>.*/}
       </p>
       <p className="md:leading-7 md:text-xl text-gray-700 mt-8">
-        Registration fees are waived for invited keynote speakers.
-        Please note, that once the registration payment is done, <span className="text-red-800 font-bold">no refund is available</span>.
+        Registration fees are waived for invited keynote speakers and for invited reviewers. The reviewers undertake to carefully and professionally evaluate at least 5 submitted manuscripts in an objective and impartial manner.
       </p>
       <p className="md:leading-7 md:text-xl text-gray-700 mt-8">
         Registration fees below include VAT tax 20%.
