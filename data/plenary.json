@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2024-09-23",
+    "links": [],
+    "video": null,
+    "parts": [
+      {
+        "id": 0,
+        "startTime": "2024-09-23T10:00+03:00",
+        "endTime": "2023-09-25T13:00+03:00",
+        "type": "registration",
+        "chairs": [],
+        "name": "Registration & Coffee Break (Room 220)"
+      },
+      {
+        "id": 1,
+        "name": "DCCN Opening (Room 708)",
+        "type": "opening",
+        "startTime": "2024-09-23T11:00+03:00",
+        "endTime": "2024-09-23T11:15+03:00",
+        "chairs": []
+      },
+      {
+        "id": 2,
+        "name": "Plenary Session (Room 708)",
+        "type": "session",
+        "startTime": "2024-09-23T11:15+03:00",
+        "endTime": "2024-09-23T13:00+03:00",
+        "lectures": [
+          {
+            "speaker": {
+              "slug": "kumar"
+            },
+            "startTime": "2024-09-23T11:15+03:00",
+            "duration": "1h"
+          },
+          {
+            "speaker": {
+              "slug": "laouid"
+            },
+            "startTime": "2024-09-23T12:15+03:00",
+            "duration": "45m"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Lunch (University Canteen)",
+        "type": "break",
+        "startTime": "2024-09-23T13:00+03:00",
+        "endTime": "2024-09-23T13:45+03:00"
+      },
+      {
+        "id": 4,
+        "name": "Plenary Session (Room 708)",
+        "type": "session",
+        "startTime": "2024-09-23T13:45+03:00",
+        "endTime": "2024-09-23T16:45+03:00",
+        "lectures": [
+          {
+            "speaker": {
+              "slug": "sharma"
+            },
+            "startTime": "2024-09-23T13:45+03:00",
+            "duration": "1h"
+          },
+          {
+            "speaker": {
+              "slug": "ateya"
+            },
+            "startTime": "2024-09-23T14:45+03:00",
+            "duration": "1h"
+          },
+          {
+            "speaker": {
+              "slug": "muthanna"
+            },
+            "startTime": "2024-09-23T15:45+03:00",
+            "duration": "1h"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Welcome Reception (University Canteen)",
+        "type": "break",
+        "startTime": "2024-09-23T17:00+03:00",
+        "endTime": "2024-09-23T19:00+03:00"
+      }
+    ]
+  }
+]

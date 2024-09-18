@@ -86,7 +86,7 @@ const ItemContent = ({ item, className = "" } = {}) => {
 const OpeningItemContent = ({ item, className = "" } = {}) => (
   <div className={className}>
     <p className="text-indigo-600 font-extrabold mb-0">
-      <Moment format="DD MMM, HH:mm">{item.startTime}</Moment>
+      <Moment format="HH:mm">{item.startTime}</Moment> - <Moment format="HH:mm">{item.endTime}</Moment>
     </p>
     <h6 className="text-xl font-bold text-gray-800">{item.name}</h6>
     {item.chairs.map(c => {
@@ -135,8 +135,8 @@ const LectureItemContent = ({ item, className = "" } = {}) => (
         {item.duration}
       </span>
     </p>
-    <Link href={"/keynotes/[slug]"} as={`/keynotes/${item.speaker.slug}`}>
-      <a className="text-xl font-medium leading-7 text-blue-500 hover:underline cursor-pointer">{item.data.title}</a>
+    <Link className="text-xl font-medium leading-7 text-blue-500 hover:underline cursor-pointer" href={"/keynotes/[slug]"} as={`/keynotes/${item.speaker.slug}`}>
+      {item.data.title}
     </Link>
     <div className="flex flex-col lg:flex-row w-100 lg:items-center">
       <SpeakerSmallCard speaker={item.speaker} className="mt-2" />

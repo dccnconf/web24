@@ -1,0 +1,281 @@
+{
+  "days": [
+    {
+      "date": "2024-09-23",
+      "description": "DCCN opening day and plenary session",
+      "plenary": true,
+      "online": {
+        "links": [],
+        "video": null
+      },
+      "intervals": [
+        {
+          "startTime": "2024-09-23T10:00+03:00",
+          "endTime": "2024-09-23T13:00+03:00",
+          "type": "sessions",
+          "label": "Registration & Coffee point (Room 220)"
+        },
+        {
+          "startTime": "2024-09-23T11:00+03:00",
+          "endTime": "2024-09-23T11:15+03:00",
+          "type": "special",
+          "label": "Conference Opening (Room 708)"
+        },
+        {
+          "startTime": "2024-09-23T11:15+03:00",
+          "endTime": "2024-09-23T13:00+03:00",
+          "type": "plenary",
+          "sessions": [
+            {
+              "slug": "P.1"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-23T13:00+03:00",
+          "endTime": "2024-09-23T13:45+03:00",
+          "type": "break",
+          "label": "Lunch"
+        },
+        {
+          "startTime": "2024-09-23T13:45+03:00",
+          "endTime": "2024-09-23T14:45+03:00",
+          "type": "plenary",
+          "sessions": [
+            {
+              "slug": "P.1"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-23T14:45+03:00",
+          "endTime": "2024-09-23T15:45+03:00",
+          "type": "plenary",
+          "sessions": [
+            {
+              "slug": "P.1"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-23T15:45+03:00",
+          "endTime": "2024-09-23T16:45+03:00",
+          "type": "plenary",
+          "sessions": [
+            {
+              "slug": "P.1"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-23T17:00+03:00",
+          "endTime": "2024-09-23T19:00+03:00",
+          "type": "special",
+          "label": "Welcome Reception"
+        }
+      ]
+    }
+  ],
+  "chairs": [
+    {
+      "name": "A.Muthanna",
+      "slug": "muth",
+      "appeal": "Dr."
+    },
+    {
+      "name": "Vladimir M. Vishnevsky",
+      "slug": "vishn",
+      "appeal": "Prof.",
+      "affiliations": [
+        {
+          "slug": "ipu"
+        }
+      ],
+      "avatar": "/images/avatars/vishnevsky.jpg"
+    },
+    {
+      "name": "Konstantin E. Samouylov",
+      "slug": "sam",
+      "appeal": "Prof.",
+      "affiliations": [
+        {
+          "slug": "rudn"
+        }
+      ],
+      "avatar": "/images/avatars/samouylov.jpg"
+    },
+    {
+      "name": "Yu. Gaidamaka",
+      "slug": "yug",
+      "appeal": "Prof."
+    },
+    {
+      "name": "E. Sopin",
+      "slug": "sop",
+      "appeal": "Dr."
+    },
+    {
+      "name": "D. Namiot",
+      "slug": "nam",
+      "appeal": "Prof."
+    },
+    {
+      "name": "S. Stepanov",
+      "slug": "ste",
+      "appeal": "Prof."
+    },
+    {
+      "name": "A. Nazarov",
+      "slug": "naz",
+      "appeal": "Prof."
+    },
+    {
+      "name": "E. Morozov",
+      "slug": "mor",
+      "appeal": "Prof."
+    },
+    {
+      "name": "D. Efrosinin",
+      "slug": "efr",
+      "appeal": "Prof."
+    },
+    {
+      "name": "S. Vasilyev",
+      "slug": "vas",
+      "appeal": "Dr."
+    },
+    {
+      "name": "A. Andronov",
+      "slug": "and",
+      "appeal": "Prof"
+    },
+    {
+      "name": "V. Rykov",
+      "slug": "ryk",
+      "appeal": "Prof."
+    },
+    {
+      "name": "T. Atanasova",
+      "slug": "ata",
+      "appeal": "Prof."
+    },
+    {
+      "name": " J. Sztrik",
+      "slug": "szt",
+      "appeal": "Prof."
+    },
+    {
+      "name": "E. Shchetinin",
+      "slug": "shc",
+      "appeal": "Prof."
+    },
+    {
+      "name": "D. Kulyabov",
+      "slug": "kul",
+      "appeal": "Prof."
+    },
+    {
+      "name": "D. Kozyrev",
+      "slug": "koz",
+      "appeal": "Dr."
+    },
+    {
+      "name": "A. Krishnamoorthy",
+      "slug": "kri",
+      "appeal": "Prof."
+    },
+    {
+      "name": "Varghese C. Joshua",
+      "slug": "jos",
+      "appeal": "Prof."
+    },
+    {
+      "name": "A. Dudin",
+      "slug": "dud",
+      "appeal": "Prof."
+    },
+    {
+      "name": "N. Markovich",
+      "slug": "mar",
+      "appeal": "Prof."
+    },
+    {
+      "name": "A. Koucheryavy",
+      "slug": "kou",
+      "appeal": "Prof."
+    },
+    {
+      "name": "I. Kochetkova",
+      "slug": "koc",
+      "appeal": "Dr."
+    },
+    {
+      "name": "D. Ostrikova",
+      "slug": "ost",
+      "appeal": "Dr."
+    },
+    {
+      "name": "M. Makolkina",
+      "slug": "mak",
+      "appeal": "Dr."
+    },
+    {
+      "name": "K. Vytovtov",
+      "slug": "vyt",
+      "appeal": "Prof."
+    },
+    {
+      "name": "E. Barabanova",
+      "slug": "bar",
+      "appeal": "Prof."
+    },
+    {
+      "name": "E. Markova",
+      "slug": "ema",
+      "appeal": "Dr."
+    },
+    {
+      "name": "M. Gevorkyan",
+      "slug": "gev",
+      "appeal": "Dr."
+    },
+    {
+      "name": "C. Kim",
+      "slug": "kim",
+      "appeal": "Prof."
+    },
+    {
+      "name": "E. Schetinin",
+      "slug": "sch",
+      "appeal": "Prof."
+    },
+    {
+      "name": "V. Bogatyrev",
+      "slug": "bog",
+      "appeal": "Prof."
+    },
+    {
+      "name": "S. Moiseeva",
+      "slug": "moi",
+      "appeal": "Prof."
+    },
+    {
+      "name": "A.Mandel",
+      "slug": "man",
+      "appeal": "Prof."
+    }
+  ],
+  "common": {
+    "lecture": {
+      "duration": {
+        "minutes": 20
+      }
+    }
+  },
+  "sessions": [
+    {
+      "slug": "P.1",
+      "label": "Plenary session"
+    }
+  ]
+}
