@@ -31,14 +31,14 @@ const ProgramOverview = ({ program, tracks, className = "" }) => {
               - top view of the schedule grid in PDF format
             </span>
           </li>
-          {/*<li>*/}
-          {/*  <a href="/downloads/DCCN2024_program.pdf" target="_blank" className="text-blue-500 hover:underline">*/}
-          {/*    <FontAwesomeIcon icon={faFilePdf} size="lg" className="mr-2 text-purple-500"/>DCCN2024_program.PDF*/}
-          {/*  </a>*/}
-          {/*  <span className="ml-2 leading-7 text-gray-700 text-lg">*/}
-          {/*    - full conference program in PDF format*/}
-          {/*  </span>*/}
-          {/*</li>*/}
+          <li>
+            <a href="/downloads/DCCN2024_Program.pdf" target="_blank" className="text-blue-500 hover:underline">
+              <FontAwesomeIcon icon={faFilePdf} size="lg" className="mr-2 text-purple-500"/>DCCN2024_Program.PDF
+            </a>
+            <span className="ml-2 leading-7 text-gray-700 text-lg">
+              - full conference program in PDF format
+            </span>
+          </li>
           <li>
             <Link className="text-blue-500 text-lg leading-7 hover:underline" href={"/program"} as="/program#plenary">
                 <FontAwesomeIcon icon={faStar} className="mr-2 text-yellow-500" />
