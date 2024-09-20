@@ -32,8 +32,8 @@ const ProgramOverview = ({ program, tracks, className = "" }) => {
             </span>
           </li>
           <li>
-            <a href="/downloads/DCCN2024_Program.pdf" target="_blank" className="text-blue-500 hover:underline">
-              <FontAwesomeIcon icon={faFilePdf} size="lg" className="mr-2 text-purple-500"/>DCCN2024_Program.PDF
+            <a href="/downloads/DCCN_2024_Program.pdf" target="_blank" className="text-blue-500 hover:underline">
+              <FontAwesomeIcon icon={faFilePdf} size="lg" className="mr-2 text-purple-500"/>DCCN_2024_Program.PDF
             </a>
             <span className="ml-2 leading-7 text-gray-700 text-lg">
               - full conference program in PDF format
