@@ -13,6 +13,8 @@ import moment from "moment";
 import Link from "next/link";
 import VideoConfCard from "./VideoConfCard";
 import {getTrackTextColor} from "../libs/common/styling";
+import {faVideo} from "@fortawesome/free-solid-svg-icons";
+
 
 const ProgramOverview = ({ program, tracks, className = "" }) => {
 
@@ -20,7 +22,7 @@ const ProgramOverview = ({ program, tracks, className = "" }) => {
     <div className={className}>
 
       {/* Navigation inside the program: */}
-      <div className="border-b-2 pb-8">
+      <div className="pb-8">
         <p className="mb-4 text-lg text-gray-700 leading-7">You may find these links useful:</p>
         <ul className="list-disc pl-4">
           <li>
@@ -57,6 +59,41 @@ const ProgramOverview = ({ program, tracks, className = "" }) => {
           {/*    </li>*/}
           {/*  ))*/}
           {/*}*/}
+        </ul>
+      </div>
+
+      <div className="border-b-2 pb-8">
+        <p className="mb-4 text-lg text-gray-700 leading-7">Video conference links:</p>
+        <ul className="list-disc pl-4">
+          <li>
+            <a href="https://telemost.yandex.ru/live/0da2043b039749efa816bb2e33e9d743" target="_blank" className="text-blue-500 hover:underline">
+              <FontAwesomeIcon icon={faVideo} size="lg" className="mr-2 text-purple-500"/>Link to Join Plenary Session
+            </a>
+          </li>
+
+          <li>
+            <a href="https://telemost.yandex.ru/j/95989188497129" target="_blank" className="text-blue-500 hover:underline">
+              <FontAwesomeIcon icon={faVideo} size="lg" className="mr-2 text-purple-500"/>Link to Join Track A
+            </a>
+          </li>
+
+          <li>
+            <a href="https://telemost.yandex.ru/j/70296155683332" target="_blank" className="text-blue-500 hover:underline">
+              <FontAwesomeIcon icon={faVideo} size="lg" className="mr-2 text-purple-500"/>Link to Join Track B-1
+            </a>
+          </li>
+
+          <li>
+            <a href="https://telemost.yandex.ru/j/95989188497129" target="_blank" className="text-blue-500 hover:underline">
+              <FontAwesomeIcon icon={faVideo} size="lg" className="mr-2 text-purple-500"/>Link to Join Track B-2
+            </a>
+          </li>
+
+          <li>
+            <a href="https://telemost.yandex.ru/j/01242678496824" target="_blank" className="text-blue-500 hover:underline">
+              <FontAwesomeIcon icon={faVideo} size="lg" className="mr-2 text-purple-500"/>Link to Join Track C
+            </a>
+          </li>
         </ul>
       </div>
 

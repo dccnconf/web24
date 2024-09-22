@@ -1,7 +1,14 @@
 [
   {
     "date": "2024-09-23",
-    "links": [],
+    "links": [
+      {
+        "text": "Link to join plenary session",
+        "type": "telemost",
+        "url": "https://telemost.yandex.ru/live/0da2043b039749efa816bb2e33e9d743",
+        "disabled": false
+      }
+    ],
     "video": null,
     "parts": [
       {
