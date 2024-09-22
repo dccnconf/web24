@@ -45,14 +45,14 @@ export default function Hero({ plenary }) {
 
         <div className="mt-3 mx-0 md:mx-16 lg:mx-0 lg:w-1/2 xl:w-4/7">
           <div className="rounded-md shadow">
-            {/*<a href="https://uconfy.com/conf/16/"*/}
-            {/*   target="_blank"*/}
-            {/*   // className="flex items-center justify-center px-2 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"*/}
-            {/*   className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"*/}
-            {/*>*/}
-            {/*  <FontAwesomeIcon icon={faDoorOpen} size="lg" className="mr-2 hidden md:block" />*/}
-            {/*  Register*/}
-            {/*</a>*/}
+            <a href="https://uconfy.com/conf/16/"
+               target="_blank"
+               // className="flex items-center justify-center px-2 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+               className="w-full mb-2 flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
+            >
+              <FontAwesomeIcon icon={faDoorOpen} size="lg" className="mr-2 hidden md:block" />
+              Register
+            </a>
             <a
               href="https://telemost.yandex.ru/live/0da2043b039749efa816bb2e33e9d743"
               className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
