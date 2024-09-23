@@ -38,7 +38,7 @@ const ProgramOverview = ({ program, tracks, className = "" }) => {
               <FontAwesomeIcon icon={faFilePdf} size="lg" className="mr-2 text-purple-500"/>DCCN_2024_Program.PDF
             </a>
             <span className="ml-2 leading-7 text-gray-700 text-lg">
-              - full conference program in PDF format <span className="font-bold">(updated on 20.09.2024)</span>
+              - track sessions program in PDF format <span className="font-bold">(updated on 23.09.2024, changes are marked in orange)</span>
             </span>
           </li>
           <li>
