@@ -52,12 +52,10 @@ export default function TrackProgram({program, track, className = ""} = {}) {
 
             <SessionTable session={session} duration={program.common.lecture.duration} />
             <p className="mt-2 mb-10">
-              <Link href={"/program"} as="/program#top">
-                <a className="text-blue-500 hover:underline">
+              <a className="text-blue-500 hover:underline" href={"/program#top"}>
                   <FontAwesomeIcon icon={faAngleUp} className="mr-1" />
                   Back to top
-                </a>
-              </Link>
+              </a>
             </p>
           </div>
         ))
@@ -86,14 +84,14 @@ function SessionTable({ session, duration, className = ""} = {}) {
                 </div>
                 <div className="text-gray-600 italic">
                   <FontAwesomeIcon icon={faClock} className="mr-1" />
-                  {duration.minutes}m
+                  {lecture.duration || duration.minutes}m
                 </div>
               </td>
               <td className="border border-gray-300 px-2 text-gray-700 leading-tight py-2">
                 <div>
-                  <Link href={"/papers/[id]"} as={`/papers/${lecture.paper.id}`}>
-                    <a className="text-blue-500 hover:underline">{lecture.paper.title}</a>
-                  </Link>
+                  <a href={`/papers/${lecture.paper.id}`} className="text-blue-500 hover:underline">
+                    {lecture.paper.title}
+                  </a>
                 </div>
                 <div className="text-sm">
                   {lecture.paper.authors.map(a => a.name).join(", ")}

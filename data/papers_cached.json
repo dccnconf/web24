@@ -1,0 +1,768 @@
+[
+  {
+    "id": 3105,
+    "title": "Deep learning for autonomous vehicle traffic predictions in a multi-cloud vehicular network environment",
+    "abstract": "Autonomous vehicles (AVs) show promise for 5G and beyond\r\ncellular networks in a variety of applications. AV utilization is rising\r\nworldwide due to the increased awareness and widespread use of artificial\r\nintelligence (AI) in numerous industries. AVs require predictive data\r\nflows to optimize data transfer and reduce latency through better utilization\r\nof transportation system capabilities, monitoring, management,\r\nand control. This research presents a novel approach utilizing a Bidirectional\r\nLong Short-Term Memory Model (BiLSTM) in deep learning\r\n(DL) to accurately forecast the traffic rate of autonomous vehicles in a\r\nVehicular network environment that incorporates multi-cloud services.\r\nA comparison is performed between the suggested method and the traditional\r\nunidirectional LSTM for prediction accuracy as a function of\r\nbatch size. According to the simulations, the suggested BiLSTM model\r\noutperforms the conventional LSTM model in terms of forecasting accuracy.\r\nAdditionally, the 8-batch size model outperforms others and yields\r\noutstanding results.",
+    "authors": [
+      "Ali R. Abdellah",
+      "Ahmed Abdelmoaty",
+      "Malik Alsweity",
+      "Ammar Muthanna",
+      "Andrey Koucheryavy"
+    ]
+  },
+  {
+    "id": 3103,
+    "title": "Clustering Algorithm  for ultra Reliable and Low Latency Communications Based on Population Density",
+    "abstract": "The article the reasons for the need to change the structure of the fifth and subsequent generations. In order to decentralize improvement of the C-means fuzzy clustering algorithm due to the use of the DBSCAN density algorithm was proposed, the results of the algorithm on synthetic datasets were obtained. The dependence of the digital cluster size on the population density and distribution of users was determined.",
+    "authors": [
+      "Maria Sharlaeva",
+      "Maria Makolkina",
+      "Abbas Alzaghir",
+      "Artem Volkov"
+    ]
+  },
+  {
+    "id": 3101,
+    "title": "Autoregressive and Arima Pro-Integrated Moving Average Models for Network Traffic Forecasting",
+    "abstract": "The predictability of network traffic is critical in optimizing future network architectures, where an accurate traffic prediction model ensures high-quality service. This research focuses on forecasting network traffic using ARIMA models, particularly addressing significant traffic characteristics such as long-range dependence (LRD), self-similarity, and multifractality across various time scales. Utilizing Internet of Things (IoT) data, this study developed and evaluated multiple ARIMA models based on performance metrics including the Akaike Information Criterion (AIC), Schwarz Bayesian Criterion (SBC), maximum likelihood, and standard error. The research highlights the model's efficacy in capturing linear dependencies within network traffic, while also acknowledging the limitations of ARIMA models in handling data burst characteristics. Consequently, it suggests the potential integration with GARCH models to improve prediction accuracy by incorporating time-varying volatility.",
+    "authors": [
+      "Ibrahim Elgendy"
+    ]
+  },
+  {
+    "id": 2613,
+    "title": "Applying Machine Learning for User Preferences Prediction based on Personality Traits",
+    "abstract": "This paper investigates the application of Machine Learning models to predict user preferences based on their personality traits.\r\nThe results of the conducted survey are utilized as input for estimations, with personality traits operationalized using the TIPI test - an abridged and validated version of the Five-Factor model - alongside risk perception as a sixth trait.\r\nThe study proposes the implementation of three regression models - Linear Regression, Decision Trees, and Random Forest - with Random Forest appearing to be the most appropriate for this aim.\r\nThe findings confirm the role of user personality and strengthen the reliability of Machine Learning models in making accurate predictions in this scientific domain. \r\nFinally, a conclusive overview of the research results is presented, demonstrating that personality significantly influences not only our decisions but also our thoughts, emotions, and behaviors in specific situations.",
+    "authors": [
+      "Rumen Ketipov",
+      "Todor Balabanov",
+      "Vera Angelova",
+      "Lyubka Doukovska"
+    ]
+  },
+  {
+    "id": 2514,
+    "title": "On Supervised Deep Gaussian Mixture Models",
+    "abstract": "The paper presents a way to solve supervised learning problems (classification and regression) using deep Gaussian mixture models (DGMMs). In particular, a composition of the classical version of DGMM with supervised learning methods is used. More than 20 datasets with various parameters from the UCI Machine Learning repository were used for testing. It has been demonstrated that the greatest increase in classification accuracy (by 15.01%) is achieved with the combination of DGMM and extreme gradient boosting. DGMM regression (DGMMR) outperformed both the linear regression and the Gaussian mixture regression in terms of RMSE metric by 8.32% and 27.22%, respectively. The ensemble of DGMM classification and extreme gradient boosting also showed the best results in the semi-supervised class, but it is 9.44% inferior to DGMMR in the RMSE metric on test datasets.",
+    "authors": [
+      "Andrey Gorshenin"
+    ]
+  },
+  {
+    "id": 2490,
+    "title": "The Use of Machine Learning for Remote Discrimination of Applications\u2019s Classes in 6G Terahertz Systems with Directional Antennas",
+    "abstract": "User micro-mobility is known to affect the performance of applications in systems with directional antennas, such as millimeter wave (mmWave) 5G New Radio (NR) cellular systems and future 6G systems. It has been shown that the type of application currently utilized by the user specifies the micro-mobility properties and thus affects the time between beam-tracking time instants. In this study, we utilize the real-time measurements of the received signal strength at 156GHz with user equipment subject to micro-mobility patterns to design machine-learning (ML)-based methods for application detection. Our numerical results show that even the simplest ML classifiers, such as trees and random forests, are capable of distinguishing between applications with slow and fast micro mobility with extremely high accuracy, reaching 97%. Differentiating between all the applications\u2019 classes with high, moderate, and slow micromobility is more difficult, but is still feasible with an accuracy higher than 80%. To improve this accuracy, further deep learning methods that capture the time-dependence in the time-series structure are needed.",
+    "authors": [
+      "Svetlana Dugaeva",
+      "Vyacheslav Begishev",
+      "Alexander Shurakov",
+      "Yevgeni Koucheryavy",
+      "Gregory Goltsman"
+    ]
+  },
+  {
+    "id": 2928,
+    "title": "Optimizing Energy Efficiency via Small Cell-Controlled Power Management for Seamless Data Connectivity",
+    "abstract": "The growing importance of energy-efficient networks capable of handling high data rates poses a significant concern for network operators. With the evolution of new mobile data network standards, there has been a surge in the number of subscribers and an increased demand for high-speed data traffic, enabling seamless streaming of social media content within seconds. Network operators are tasked with meeting consumer satisfaction, and to achieve high data rates and good signal quality, they have adopted the deployment of small cells. In this research, energy efficiency is enhanced through an investigation of the small cell-controlled scheme, which is then extended to incorporate a power control strategy based on throughput measurements. Additionally, energy consumption is reduced by adjusting the transmit power based on traffic patterns. Specifically, during periods of normal traffic, the power utilization is set at 40\\% of the total power, while in times of increased traffic intensity, 60\\% of the total power is allocated. This traffic intensity-based power distribution scheme results in a 13-15\\% increase in energy efficiency compared to the small cell-controlled sleep mode.",
+    "authors": [
+      "Anna Kushchazli",
+      "Irina Kochetkova",
+      "Sadique Ahmad"
+    ]
+  },
+  {
+    "id": 3100,
+    "title": "Deep Learning Chest X-Rays of Pneumonia Binary Classification Based on Convolutional Neural Network for IoT networking",
+    "abstract": "Pneumonia is a severe lung infection caused by a variety of viruses. Due to its similarities to other lung disorders, pneumonia can sometimes be challenging to recognize and address on chest X-ray pictures. This means that no currently available techniques for forecasting pneumonia can achieve sufficiently high levels of accuracy. In order to streamline the operation of identifying pneumonia from chest X-ray pictures online using Internet of Things (IoT) networks, this research introduces a classification method used a custom-made version of the Convolutional Neural Network (CNN) model. We propose to use a structure of three parts: the input to the first part will be split into two identical paths, where each path constructed from four-layers (one of them is Convolution-layer), but with different initialization parameters and distinct dropout values. the results will be added to each other. Then the second part starts with identical two paths again and summed at their last layer. Finally, the third part will be constructed from nine-layers (first two-layers are convolutional-layers). Thanks to kaggle, the model was trained using Kaggel Tensorflow Processor Units (TPUs), which is a free facility from kaggel. Therefore, the training time was dramatically low. Results show that the suggested model achieved precision, recall, and accuracy of 98.94%, 98.55%, and 98.14%, respectively. Thus, the collected results prove that this network can be easily integrated with IoT networks.",
+    "authors": [
+      "Mohammed Muthanna",
+      "Omar Mahmood",
+      "Yousif Hammadi",
+      "Alexey Tselykh"
+    ]
+  },
+  {
+    "id": 2630,
+    "title": "Development of a Multifactor Forecasting Method for Dependability Measures of IIoT-Systems",
+    "abstract": "In the context of this study, a method for assessing the dependability measures of Industrial Internet of Things (IIoT) systems is proposed, which takes into account the hardware and network components of the systems, as well as the software. Existing and practical methods for assessing the dependability of\r\nIIoT systems, along with their advantages and disadvantages, are presented and analyzed. Based on the obtained data, an enhanced method for multifactor forecasting of the dependability measures of IIoT systems is developed and described. A table with numerical values of availability coefficients is presented, considering various types of modulation and topologies.",
+    "authors": [
+      "Viacheslav Tsvetkov",
+      "Sergey Polesskiy",
+      "Leonid Lander",
+      "Pavel Korolev"
+    ]
+  },
+  {
+    "id": 2930,
+    "title": "5G/6G Communication Networks Works Force Management",
+    "abstract": "This article describes the math model of advanced workforce management systems WFM (Workforce Management) of 5G/6G telecommunication networks, a formalized approach to describing extended WFM functionality and mathematical WFM models. The proposed approach allows the development of new WFM tools for telecommunications operators to increase their performance, manage the work schedules of engineering employees of the company more effectively, visit customer sites, and control the personal workload in real-time. \r\nCompared to the routine distribution of requests between telephone technicians in the repair bureau of the old Public Switched Telephone Network (PSTN) in the XX century, the modern WFM system operates with a disproportionately large set of functions, a wide range of professional competencies and key performance indicators (KPIs). In partnership with WFM, other new information technology tools (IT-landscape) of the telecommunications operator, elements of BSS (Business Support Systems), human resource accounting (HR) software, enterprise resource planning (ERP) systems, other workforce planning, and management tools employee vacations, the timing of basic engineering operations at the operator's and customer's premises, and other support tools to optimize the performance of the required work by personnel, increase productivity and reduce costs.",
+    "authors": [
+      "Alexander Goldstein",
+      "Lev Goldstein",
+      "\u041c\u0438\u0445\u0430\u0438\u043b \u0424\u0435\u043d\u043e\u043c\u0435\u043d\u043e\u0432"
+    ]
+  },
+  {
+    "id": 2945,
+    "title": "Measurement-Based Received Signal Time-Series Generation for 6G Terahertz Cellular Systems",
+    "abstract": "The blockage of propagation paths between the base station (BS) and user equipment (UE), as well as micromobility due to fast rotation of UE in the hands of a user, are known to be the main phenomena affecting the performance of 6G (sub-)terahertz (sub-THz/THz, 0.1-0.3, 0.3-3 THz) cellular systems. The development of various functions targeting the performance improvement of such systems requires careful understanding of the received signal dynamics. However, practical measurements of the received signal power are generally limited to blockage and micromobility phenomena in isolation. In this study, by utilizing individual measurements of blockage and micromobility processes, we developed an algorithm for generating the time-series of the received signal strength, as seen at the UE, simultaneously capturing blockage, micromobility, and beamtracking procedures. The traces produced can be further utilized for various tasks, including the assessment of the energy efficiency of THz communications and the development of statistical tests for discriminating blockage and micromobility events.",
+    "authors": [
+      "Daria Ostrikova",
+      "Vitalii Beschastnyi",
+      "Elizaveta Golos",
+      "Yuliya Gaidamaka",
+      "Alexander Shurakov",
+      "Yevgeni Koucheryavy",
+      "Gregory Goltsman"
+    ]
+  },
+  {
+    "id": 2351,
+    "title": "Modeling distributions of node characteristics in directed graphs evolving by preferential attachment",
+    "abstract": "Distributions of in-degree and out-degree in directed  graphs evolving by the linear preferential attachment (PA) without edge and node deletion were derived in Bollob\\'{a}s, Riordan (2002). The same distributions, but in undirected graphs evolving by the PA with edge and node deletion, were obtained in Ghoshal et al. (2013). Our paper is devoted to a modeling \r\nof in- and out-degree distributions in directed  graphs evolving by the PA and with edge and node deletion. The PA model is taken the same way as  in Ghoshal et al. (2013). We  show by a simulation study that the in- and out-degree distributions can be modeled by a power-law distribution or a power-law distribution with an exponential correction depending on the PA parameters.",
+    "authors": [
+      "Natalia Markovich",
+      "Maksim Ryzhov"
+    ]
+  },
+  {
+    "id": 2524,
+    "title": "Approximation of queueing systems with superposed Weibull inputs",
+    "abstract": "A single-server queueing systems with   the stationary superposed Weibull\r\ninput processes and general class-dependent service times are considered.   An approximating GI/G/ 1-type system is considered which the independent identically distributed interarrival times follow a stationary Palm distribution corresponding to the stationary superposed input process.  We compare the simulation results of the original and   approximating systems.",
+    "authors": [
+      "Irina Peshkova",
+      "Evsey Morozov",
+      "Michele Pagano"
+    ]
+  },
+  {
+    "id": 2550,
+    "title": "Controlled Markov Queueing Systems with Deep RL algorithm",
+    "abstract": "This study explores a model of a multilinear queueing system (QS) with channel switching under uncertainty, where the statistical characteristics of the homogeneous Markov chain, which governs the transition probabilities of the environment from state to state, remain unknown. The application of neural networks and the Q-learning algorithm, specifically Deep Q-Networks (DQN), is proposed to effectively control such a system. This approach leverages the capability of neural networks to approximate the optimal policy in complex environments, thereby enhancing the decision-making process in the face of uncertainty. The performance of several reinforcement learning algorithms is compared, highlighting the advantages of using DQN in this context. The results demonstrate that DQN can significantly improve the system's adaptability and efficiency, providing a robust solution for control multilinear queueing systems under uncertain conditions.",
+    "authors": [
+      "Viktor Laptin"
+    ]
+  },
+  {
+    "id": 2862,
+    "title": "A k-out-of-n Reliability Model with Phase-Type Internal and External Service, N-Policy, and Multiple Server Vacations",
+    "abstract": "This paper investigates the reliability of a k-out-of-n repairable system with\r\na single server, offers service to external customers by using idle time. Both\r\nexternal and internal services are regulated by an N policy. When the number\r\nof failed system components is less than N and the system is free from external\r\nfailed components, the server goes on multiple vacations. The failure times\r\nof the system\u2019s components and the arrival rate of externally failed customers\r\nfollow an exponential distribution. We use the Matrix Analytic Method to\r\ndiscuss system stability and steady-state distributions. The N-policy level is\r\nnumerically optimized using an appropriate cost function.",
+    "authors": [
+      "BINUMON JOSEPH",
+      "Jose K. P."
+    ]
+  },
+  {
+    "id": 2858,
+    "title": "N-Policy in a Multi-server Stochastic Production Inventory System.",
+    "abstract": "The paper presents the integration of the N-Policy into a multi-server stochastic\r\nproduction inventory system. The system comprises c identical servers, and\r\neach server activates sequentially if there is sufficient queue length and inventory;\r\notherwise, it remains idle. Inactivity persists until the queue length reaches\r\na predetermined manageable threshold or until there is inadequate stock. A\r\nnecessary and sufficient condition for the system\u2019s stability is established. Performance\r\nmeasures for the system are defined, and a relevant cost function based\r\non these measures is formulated.",
+    "authors": [
+      "Jose K. P.",
+      "Thresiamma N J"
+    ]
+  },
+  {
+    "id": 2500,
+    "title": "On convolution algorithm for normalization constant evaluation in the analysis of resource loss systems with signals",
+    "abstract": "Resource loss systems with signals, in which arrival of a signal triggers\r\nresource reallocation of a customer, are often used in the performance analysis of\r\nthe contemporary mobile networks, especially those that utilize high-frequency\r\nbands. In the paper, we consider the random process that describe the behavior\r\nof a resource loss system and derive stationary distribution of the Markov chain\r\nembedded at the departure instants. Besides, we propose a convolution algorithm\r\nfor evaluation of the normalization constant.",
+    "authors": [
+      "Alexander Maslov",
+      "Eduard Sopin"
+    ]
+  },
+  {
+    "id": 2571,
+    "title": "Polling Queueing System with Varying Service Rate",
+    "abstract": "We consider a two-buffer polling queueing system with a changing service rate. One of the buffers has an infinite capacity, while another is finite. Changes in service rates occur during service at random moments. The arrival flow is defined by a Marked Markovian arrival process. The process of the system states is defined by a multidimensional Markov chain. The generator of this chain is derived, and its steady-state distribution is computed. The main performance characteristics of the system are obtained.",
+    "authors": [
+      "Alexander Dudin",
+      "Olga Dudina"
+    ]
+  },
+  {
+    "id": 3084,
+    "title": "Tandem Retrial Queueing System with Markovian Arrival Process and Common Orbit",
+    "abstract": "In this paper, we investigate a retrial tandem queueing system consisting of  two  stations in series. Each  station is  represented by a single server  and a buffer of a finite size. Customers arrive at the first station according to a  Markovian Arrival Process ($MAP$). The service time at the first and the second server has a Phase type ($PH$) distribution.\r\nThe novelty of the model under consideration is the presence of a common  orbit for blocked customers at both the first and the second stations. Unlike other few studies of retrial tandem systems with  a common orbit, our model is more general and we obtain analytical results using matrix-analytic technique. We derive the  sufficient conditions for existence and absence of the stationary regime in the system, calculate the  stationary distribution of the number of customers in the orbit and at the stations and derive  formulas for the most important performance measures.",
+    "authors": [
+      "Valentina Klimenok",
+      "Vladimir Vishnevsky"
+    ]
+  },
+  {
+    "id": 2560,
+    "title": "Stability analysis of  two-class preemptive priority retrial queuing model with constant retrial rate",
+    "abstract": "We deal with retrial model under constant retrial rate policy. The system involves two nonequivalent classes of customers. One class have so called preemptive or high priority, while  the other has low priority. Namely if high priority new arrival enters  the system and finds the server busy by the other class, the low priority customer interrupts its service and joins the corresponding orbit. \r\nRelying on Markov Chain method for two-component processes, we obtain necessary and sufficient stability conditions for this model. The presented analysis  is applicable for the general models with nonexponential distribution of service times.",
+    "authors": [
+      "Ruslana Nekrasova"
+    ]
+  },
+  {
+    "id": 3123,
+    "title": "Reliability Analysis of Communication Systems",
+    "abstract": "Reliability is defined to be the ability of a system or component to perform its required functions under stated conditions for a specified period of time. In the world of broadband network, different types of communication networks are facing a large demand due to its high-speed wireless data transmission, extensive coverage from base stations, and a luxury of upgrading protocol software. In this talk, an analytical model is discussed to determine reliability attributes of third generation and beyond Universal Mobile Telecommunication Systems (UMTS), Voice over Internet Protocol (VoIP), Long-Term Evolution Advanced (LTE-A), Vehicular Ad hoc Network (VANET), High-Altitude Platform (HAP) networks. These networks are modeled using stochastic models such as Markov chains, semi-Markov process, reliability block diagrams and Markov reward models to obtain these attributes. Numerical results illustrate the applicability of the proposed analytical model. In addition, it can help the guarantee of network connectivity after any failure, without over dimensioning the networks.",
+    "authors": [
+      "Dharmaraja Selvamuthu"
+    ]
+  },
+  {
+    "id": 2442,
+    "title": "Investigation of M/G/1//N system with collisions, unreliable primary and a backup server",
+    "abstract": "This paper explores a finite-source retrial queueing system featuring collisions of the requests, unreliability of the primary server and a backup server. In the case of collisions, wherein a new job arriving when the service facility is occupied results in a collision, sending both jobs to a virtual waiting room, termed the orbit. In the orbit, customers initiate further attempts to access the server after a random time interval. In the event of a breakdown, the customer at the server is forwarded to the orbit. The novelty of this study lies in implementing a backup facility when the primary server is unreachable and carrying out a sensitivity analysis employing various service time distributions of the primary customers. We investigated a scenario where the most important performance measures are visually represented highlighting the observed disparities.",
+    "authors": [
+      "\u00c1d\u00e1m T\u00f3th",
+      "J\u00e1nos Sztrik"
+    ]
+  },
+  {
+    "id": 2866,
+    "title": "Simulation-Based Optimization for Resource Allocation Problem in Finite-Source Queue with Heterogeneous Repair Facility",
+    "abstract": "The paper deals with an optimal allocation problem in a finite-source queueing\r\nsystem where the repair facility consists of multiple heterogeneous servers. We use\r\nboth the reinforcement learning methods and the random search method based\r\non simulated annealing to solve the discrete optimization problem. Experimental\r\nresults are compared with an actual solution obtained by policy iteration of the\r\ndynamic programming. The advantages and disadvantages of the methods and\r\nthe peculiarities of their use for controllable queueing system are discussed.",
+    "authors": [
+      "Dmitry Efrosinin",
+      "Natalia Stepanova",
+      "Vladimir Vishnevsky"
+    ]
+  },
+  {
+    "id": 2597,
+    "title": "State-Dependent Admission Control",
+    "abstract": "The paper is dedicated to a retrial queueing-inventory system with constant retrial rate, heterogeneous customer classes (distinguished by various inventory demands) working under the class- and inventory level-based admission control to a service zone with class-specific servers (one server per class). The replenishment policy is a mixture of the two classical policies, $(s,Q)$ and $(s,S)$. The model is treated by matrix-analytic method in steady- and in transient states in Markov case.",
+    "authors": [
+      "Agassi Melikov",
+      "Alexander Rumyantsev"
+    ]
+  },
+  {
+    "id": 2631,
+    "title": "On the reliability estimation of the Gaussian degradation system with a changing mean degradation rate",
+    "abstract": "We consider the system which degradation dynamic is described by the underlying stochastic process being the sum of two components: the centered Gaussian process and drift term with changing intensity rate including the case when this intensity depends on the degradation history. The main goal is estimating via simulation methods the reliability of the considered system since its analytical expression is not generally available. Two variance reduction methods have been applied to estimate the required quantity with acceptable accuracy.",
+    "authors": [
+      "Oleg Lukashenko"
+    ]
+  },
+  {
+    "id": 2885,
+    "title": "Reliability Analysis of Active Double Redundant System with Arbitrary Initial Distributions",
+    "abstract": "The goal of this article is to analyze a repairable active double redundant system with a single repair facility using Marked Markov Processes. It is assumed that  components' life- and repair times have arbitrary distributions. The proposed approach allows for calculating the system's reliability characteristics and investigating their sensitivity to the shape of input distributions. This article continues the previous work and  aims to analyze the system's steady-state probabilities. The new method is validated with numerical examples by comparing it with previously obtained analytical results and showed high accuracy.",
+    "authors": [
+      "Vladimir Rykov",
+      "Nika Ivanova"
+    ]
+  },
+  {
+    "id": 3128,
+    "title": "Transient behavior of multi-line QS with a limited number of sources and a smooth change of input information flow",
+    "abstract": "In this work, transient behavior of multi-line QS with a limited number of\r\nsources and a smooth change of input information flow is analyzed. This system\r\nadequately describes a computing system consisting of several servers with a\r\nlimited number of workstations. Investigating transition probabilities of system\r\nstates in the case of a jump-like input flow, as well as a smoothly increasing\r\ninput information flow is conducted. The main performance characteristics of\r\nthe system in a transient mode, such as failure probability and throughput are\r\ninvestigated.",
+    "authors": [
+      "Konstantin Vytovtov",
+      "Elizaveta Barabanova"
+    ]
+  },
+  {
+    "id": 3102,
+    "title": "An Internet of Thing based Obstacle Avoidance Robotic Vehicle Using Ultrasonic Sensor and Arduino",
+    "abstract": "Our work describes an obstacle avoidance spider robot vehicle which is controlled by ultrasonic sensor. The robot was manufactured and printed using a 3D printer and using an ultrasonic sensor controlled by an Arduino microcontroller. We used ESB-32 CAM board, which contained a set of sensors are  Wifi, Bluetooth, Camera which shows robot movement with the flash and its IP is 192.168.1.132, RAM memory and Antenna. Ultrasonic sensor fixed in the front portion of the robot vehicle. The sensor gets the data from surrounding areas through mounted sensors on the robot.  The sensor is sensing the obstacle and deviate its path to choose an obstacle free path. The sensor will be sending the data to the controller is compared with controller to decide the movement of the robot, our vehicle robot can compute the distance to the obstacle until 100m. We use the spider as a type of robot. The spider robot movement and direction will be based on the sensing of the ultrasonic sensor and also using a spider encoder. This robotic vehicle is used for detecting obstacle and avoiding the collision. We have programmed the controller to be used by Arduino application and used the Bluetooth for controlling the movement of the robot. Our work used the Internet of Things (IOT), where a network was formed that was understandable to all its components through the language of communication known to elements of this network.",
+    "authors": [
+      "Mohammed Muthanna",
+      "Alexey Tselykh"
+    ]
+  },
+  {
+    "id": 2408,
+    "title": "Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms",
+    "abstract": "This study explores dynamic resource allocation strategies for multi-beam satellite communication systems, focusing on optimizing communication delay, packet loss, and power consumption. We conduct a detailed comparative analysis of various Genetic Algorithm (GA) variants, such as NSGA-II and SPEA2, to address the multi-objective optimization problem inherent in resource allocation. This research advances multi-beam satellite resource management, offering an adaptable optimization technique balancing key performance factors like latency, loss, and power usage.",
+    "authors": [
+      "\u0414\u043e \u0424\u0443\u043a \u0425\u0430\u043e",
+      "Tran Duc Le",
+      "Aleksandr Berezkin",
+      "Ruslan Kirichek"
+    ]
+  },
+  {},
+  {
+    "id": 2439,
+    "title": "Guaranteed data delivery based on the recurrent sequences",
+    "abstract": "This paper introduces a software-based example of a data transmission model implemented using non-binary recurrent sequences, based on Reed-Solomon noise-resistant codes. By representing its code combinations as counterparts of maximum-length sequences, we provide information frame recovery by any of their sequential or decimated parts.",
+    "authors": [
+      "Dmitry Kukunin",
+      "Zachery Babanov",
+      "Sergey Maksimenko",
+      "Aleksandr Berezkin",
+      "Ruslan Kirichek"
+    ]
+  },
+  {
+    "id": 3133,
+    "title": "Optimization of HAPS-UAV Network Performance:  A Novel Stochastic Geometry model",
+    "abstract": "The integration of High-Altitude Platform Stations (HAPS) and Unmanned Aerial Vehicles (UAVs) introduces a novel paradigm in next-generation wireless communication systems. This research proposes a multi-tiered aerial network architecture, leveraging the quasi-stationary characteristics of HAPS in the stratosphere and the mobility of UAVs in lower altitudes, to optimize communication performance. The primary objective is to enhance coverage, capacity, and reliability across diverse operational scenarios, including urban landscapes, remote areas, and emergency zones. A comprehensive analysis of the coexistence and synergy between HAPS and UAVs is conducted, focusing on key performance metrics such as path loss, latency, signal interference, and link stability. By modeling the quasi-static altitude of HAPS and the dynamic, motion-dependent behaviour of UAVs, this study provides a robust framework for the efficient coordination of aerial platforms. The proposed architecture offers scalable solutions for future wireless networks, addressing critical challenges in global connectivity and network resilience.",
+    "authors": [
+      "Vidyottama Jain",
+      "Dmitry Kozyrev"
+    ]
+  },
+  {
+    "id": 2888,
+    "title": "Peak Age of Information in a Multicasting Network",
+    "abstract": "With the increasing number of real-time monitoring networks, the relevance of the transmitted information has become an important characteristic. Examples of such networks include sensor networks that measure and transmit atmospheric pressure, temperature and other environmental parameters, unmanned vehicles that require up-to-date information about speed, position and acceleration, and other systems. In all of these applications, information becomes obsolete over time and loses its value. In this paper, a single-layer multicasting network with tree topology is constructed. A source generates updates containing information about the state of the remote system and sends them to the root node, which transmits them to n end nodes. The transmission is carried out using a stopping scheme with threshold k. The point of the stopping scheme is to stop transmitting the update to the remaining n \u2212 k nodes after the first k nodes acknowledge its receiving. The peak age of information (AoI) at the end nodes is of interest. The analysis is carried out using mathematical and simulation modelling. Approximate and exact formulas for the mean peak AoI at the end nodes are obtained, which match the simulation results. The analysis shows that the use of stopping scheme not only improves the efficiency of radio resource utilisation by reducing the number of transmissions, but also reduces the AoI at the end nodes.",
+    "authors": [
+      "Elisaveta Gaydamaka",
+      "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041c\u0438\u043b\u0451\u0445\u0438\u043d",
+      "Yuliya Gaidamaka",
+      "Konstantin Samouylov"
+    ]
+  },
+  {
+    "id": 3102,
+    "title": "An Internet of Thing based Obstacle Avoidance Robotic Vehicle Using Ultrasonic Sensor and Arduino",
+    "abstract": "Our work describes an obstacle avoidance spider robot vehicle which is controlled by ultrasonic sensor. The robot was manufactured and printed using a 3D printer and using an ultrasonic sensor controlled by an Arduino microcontroller. We used ESB-32 CAM board, which contained a set of sensors are  Wifi, Bluetooth, Camera which shows robot movement with the flash and its IP is 192.168.1.132, RAM memory and Antenna. Ultrasonic sensor fixed in the front portion of the robot vehicle. The sensor gets the data from surrounding areas through mounted sensors on the robot.  The sensor is sensing the obstacle and deviate its path to choose an obstacle free path. The sensor will be sending the data to the controller is compared with controller to decide the movement of the robot, our vehicle robot can compute the distance to the obstacle until 100m. We use the spider as a type of robot. The spider robot movement and direction will be based on the sensing of the ultrasonic sensor and also using a spider encoder. This robotic vehicle is used for detecting obstacle and avoiding the collision. We have programmed the controller to be used by Arduino application and used the Bluetooth for controlling the movement of the robot. Our work used the Internet of Things (IOT), where a network was formed that was understandable to all its components through the language of communication known to elements of this network.",
+    "authors": [
+      "Mohammed muthanna",
+      "Alexey Tselykh"
+    ]
+  },
+  {
+    "id": 2408,
+    "title": "Advancing Satellite Communications: Multi-Objective Optimization with Genetic Algorithms",
+    "abstract": "This study explores dynamic resource allocation strategies for multi-beam satellite communication systems, focusing on optimizing communication delay, packet loss, and power consumption. We conduct a detailed comparative analysis of various Genetic Algorithm (GA) variants, such as NSGA-II and SPEA2, to address the multi-objective optimization problem inherent in resource allocation. This research advances multi-beam satellite resource management, offering an adaptable optimization technique balancing key performance factors like latency, loss, and power usage.",
+    "authors": [
+      "\u0414\u043e \u0424\u0443\u043a \u0425\u0430\u043e",
+      "Tran Duc Le",
+      "Aleksandr Berezkin",
+      "Ruslan Kirichek"
+    ]
+  },
+  {
+    "id": 2775,
+    "title": "Optimizing Resource Allocation for Multi-Beam Satellites Using Genetic Algorithm Variations",
+    "abstract": "The increasing demand for satellite communication capacity poses challenges in efficiently managing the limited frequency spectrum. This study explores dynamic resource allocation strategies for multi-beam satellite communication systems, focusing on optimizing communication delay, packet loss, and power consumption. We conduct a detailed comparative analysis of various Genetic Algorithm (GA) variants, such as NSGA-II and SPEA2, to address the multi-objective optimization problem inherent in resource allocation. Experiments demonstrate NSGA-II's superior ability to reduce delay and packet loss. In contrast, SPEA2 shows greater power efficiency, which is critical for satellite lifespan. This research advances multi-beam satellite resource management, offering an adaptable optimization technique balancing key performance factors like latency, loss, and power usage.\n",
+    "authors": [
+      "До Фук Хао",
+      "Tran Duc Le",
+      "Aleksandr Berezkin",
+      "Ruslan Kirichek"
+    ]
+  },
+  {
+    "id": 2439,
+    "title": "Guaranteed data delivery based on the recurrent sequences",
+    "abstract": "This paper introduces a software-based example of a data transmission model implemented using non-binary recurrent sequences, based on Reed-Solomon noise-resistant codes. By representing its code combinations as counterparts of maximum-length sequences, we provide information frame recovery by any of their sequential or decimated parts.",
+    "authors": [
+      "Dmitry Kukunin",
+      "Zachery Babanov",
+      "Sergey Maksimenko",
+      "Aleksandr Berezkin",
+      "Ruslan Kirichek"
+    ]
+  },
+  {
+    "id": 3133,
+    "title": "Optimization of HAPS-UAV Network Performance:  A Novel Stochastic Geometry model",
+    "abstract": "The integration of High-Altitude Platform Stations (HAPS) and Unmanned Aerial Vehicles (UAVs) introduces a novel paradigm in next-generation wireless communication systems. This research proposes a multi-tiered aerial network architecture, leveraging the quasi-stationary characteristics of HAPS in the stratosphere and the mobility of UAVs in lower altitudes, to optimize communication performance. The primary objective is to enhance coverage, capacity, and reliability across diverse operational scenarios, including urban landscapes, remote areas, and emergency zones. A comprehensive analysis of the coexistence and synergy between HAPS and UAVs is conducted, focusing on key performance metrics such as path loss, latency, signal interference, and link stability. By modeling the quasi-static altitude of HAPS and the dynamic, motion-dependent behaviour of UAVs, this study provides a robust framework for the efficient coordination of aerial platforms. The proposed architecture offers scalable solutions for future wireless networks, addressing critical challenges in global connectivity and network resilience.",
+    "authors": [
+      "Vidyottama Jain",
+      "Dmitry Kozyrev"
+    ]
+  },
+  {
+    "id": 2888,
+    "title": "Peak Age of Information in a Multicasting Network",
+    "abstract": "With the increasing number of real-time monitoring networks, the relevance of the transmitted information has become an important characteristic. Examples of such networks include sensor networks that measure and transmit atmospheric pressure, temperature and other environmental parameters, unmanned vehicles that require up-to-date information about speed, position and acceleration, and other systems. In all of these applications, information becomes obsolete over time and loses its value. In this paper, a single-layer multicasting network with tree topology is constructed. A source generates updates containing information about the state of the remote system and sends them to the root node, which transmits them to n end nodes. The transmission is carried out using a stopping scheme with threshold k. The point of the stopping scheme is to stop transmitting the update to the remaining n \u2212 k nodes after the first k nodes acknowledge its receiving. The peak age of information (AoI) at the end nodes is of interest. The analysis is carried out using mathematical and simulation modelling. Approximate and exact formulas for the mean peak AoI at the end nodes are obtained, which match the simulation results. The analysis shows that the use of stopping scheme not only improves the efficiency of radio resource utilisation by reducing the number of transmissions, but also reduces the AoI at the end nodes.",
+    "authors": [
+      "Elisaveta Gaydamaka",
+      "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041c\u0438\u043b\u0451\u0445\u0438\u043d",
+      "Yuliya Gaidamaka",
+      "Konstantin Samouylov"
+    ]
+  },
+  {
+    "id": 2926,
+    "title": "A Novel Dual Watermarking Scheme Based On K-level For Medical Images",
+    "abstract": "The security and integrity of medical images are critical due to the sensitive nature of the information they contain. Digital watermarking is a process of embedding information into images without significantly altering their appearance. Traditional watermarking methods, while effective to some extent, often face challenges in maintaining robustness and imperceptibility under various attacks and manipulations. This paper proposes a new dual watermarking scheme for medical images using a combination of spatial and frequency domains based on the k-level clustering algorithm. This scheme utilizes a k-level algorithm to generate a binary watermark image. The binary watermark is then embedded using the LSB technique. Subsequently, the original watermark also is embedded into the medical image using the DCT transform. Additionally, a bitwise XOR operation is employed to detect any manipulations by comparing it with the originally embedded binary image. PSNR is used to evaluate the efficacy of the scheme under various attacks. The analyses and results demonstrate that the scheme is robust against various attacks and effectively detects image manipulations.",
+    "authors": [
+      "Mohammed ElHabib Kahla",
+      "Mounir Beggas",
+      "Abdelkader Laouid",
+      "Brahim Ferik",
+      "Mostefa Kara"
+    ]
+  },
+  {
+    "id": 2925,
+    "title": "An Intelligent Approach for Early Detection of Potato Diseases in Desert Agriculture",
+    "abstract": "The agricultural sector constantly seeks to strengthen and develop its systems. As with other fields, the agricultural sector has recently relied on artificial intelligence technologies to process agricultural data for achieving high-quality crop production. In regions as diverse as Europe, North America, and East Asia, deep learning techniques have been used to detect plant diseases, determine their causes, and even predict crop yields in specific seasons. This research is concerned with applying these techniques in the desert environment because they are completely different in terms of infertile soil quality, drought, high water salinity, extreme temperatures, etc. To solve the problem of the degree of progression of potato leaf disease, we use previously developed models based on convolutional neural networks. The present paper focuses on creating an application to identify and classify potato leaf diseases using a dataset specially collected from a local desert environment.",
+    "authors": [
+      "Adel Berhoum",
+      "Abdelkader Laouid",
+      "Mostefa Kara"
+    ]
+  },
+  {
+    "id": 2456,
+    "title": "Coronary arteries stenosis detection by deep learning methods",
+    "abstract": "Coronary heart disease is a dangerous heart disease caused by coronary\r\narteries. In clinical practice, X\u2013ray coronary angiography is the main method\r\nof visualisation for diagnostics of coronary diseases. High cost and complexity\r\nof its results analysis by a cardiac surgeon made it necessary to automate the\r\nprocess of image processing and diagnostics of coronary artery stenoses. In\r\nthis work we considered the models of deep detection, localisation and stenosis\r\ncharacterisation using popular models such as SSD, R\u2013FCN, Faster\u2013RCNN,\r\nRetinaNet, EfficientDet. Computational experiments on stenosis detection\r\nfrom X\u2013ray images were performed on the coronary angiography data.\r\nA comparative analysis of the models in terms of the main performance\r\nindicators: mAP accuracy, image processing time, number of model parameters.\r\nThe obtained results allow us to state that Faster R\u2013CNN (ResNet101) and\r\nEfficientDet D4 (ResNet101) models are the detectors of choice in the detection\r\nof coronary artery stenosis. They have high detection accuracy and image\r\nprocessing speed compared to other models, as well as relatively low parameter\r\nvalues. Even though the speed of X\u2013ray arterial images processing by both\r\nmodels does not exceed real time, their reliability is high enough to minimise\r\nthe risk of false detections of coronary artery stenosis. A comparative analysis\r\nof their characteristics with the results of other researchers showed superior or\r\ncomparable results obtained in this work.",
+    "authors": [
+      "Eugene Yu. Shchetinin",
+      "Leonid Sevastianov",
+      "Anastasiia Tiutiunnik"
+    ]
+  },
+  {
+    "id": 2566,
+    "title": "On Proximity Presentation System",
+    "abstract": "Nowadays, the growing popularity of mobile applications for content sharing is gaining significant importance. Applications that enable simultaneous viewing of presentations are becoming particularly relevant. Many existing services for these events often require users to register and authenticate. These actions force the user to leave his personal data on certain resources, which leads to a loss of anonymity and privacy. In this paper, we propose a more secure architecture for content sharing system that is based on network spatial proximity technology. The presented approach is implemented as a mobile application for Android OS.",
+    "authors": [
+      "Artem Makarov",
+      "Dmitry Namiot"
+    ]
+  },
+  {
+    "id": 2575,
+    "title": "Generalized Nets \u041codel of neonatal Critical Congenital Heart Defects screening process",
+    "abstract": "The Generalized Nets (GN) approach is an advanced way of parallel process modeling and analysis of complex systems, such as neonatal critical congenital heart defects (CCHDs) screening, based on a new two-channel parallel measurement pulse oximetry method. \r\nThe risk of mortality caused by critical congenital heart defects in newborns in-creases when there is a delay in diagnosis. Infants with CCHD usually need surgery or catheter intervention in the first few months of life. \r\nNewborns diagnosed with CCHD are at significant risk of death or disability if measures are not taken soon after birth.\r\n Screening for CCHDs is usually done when the baby is 24 to 48 hours old. These heart defects often cause low levels of oxygen saturation, known as hypoxemia, and can potentially be diagnosed using pulse oximetry. \r\nThe present study proposes a new developed generalized net-based  model of the CCHD screening process with the inclusion of additional procedures to avoid false positives and increase the reliability of pulse oximetry results. The proposed model covers all the aspects of the CCHDs  screening process including new developed parallel measurements method reducing false positives and increasing the reliability of the oximetry measurements.",
+    "authors": [
+      "Alexander Alexandrov"
+    ]
+  },
+  {
+    "id": 2461,
+    "title": "A practical solution to the problem of detecting peoples and vehicles from video frames",
+    "abstract": "The research is dedicated to solving the problem of people and vehicle localization in video frames. Video frames of areas with forest and roads are used as test data. The algorithm from the modified \"deep_sort_realtime\" package is used for object tracking. In addition, the capability to use Yolo 8 for object detection has been added, as well as the ability to extract informative features using Mobilenet v3. For the input images is used letterbox preprocessing, and various optimizations affecting the quality and speed of results have been added. For license plate recognition, the \"tflite_avto_num_recognition\" software package is used (which employs Canny and Hough transformations, as well as the CNN-LSTM-CTC neural network). The obtained solutions work in real time and rely on open-source libraries.",
+    "authors": [
+      "Vitaly Fralenko",
+      "Mikhail Khachumov"
+    ]
+  },
+  {
+    "id": 2467,
+    "title": "\u0421\u0436\u0430\u0442\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b  \u043c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0438 \u0440\u0435\u0447\u043d\u043e\u0433\u043e \u0444\u043b\u043e\u0442\u0430",
+    "abstract": "\u0414\u043b\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0438 \u0440\u0435\u0447\u043d\u043e\u0433\u043e \u0444\u043b\u043e\u0442\u0430 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043c\u0435\u0442\u043e\u0434\u044b \u0441\u0436\u0430\u0442\u0438\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u044b, \u043f\u0440\u0438\u0432\u043e\u0434\u044f\u0442\u0441\u044f \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u0430\u043b\u044c\u043d\u043e \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u0434\u043e\u0441\u0442\u043e\u0432\u0435\u0440\u043d\u043e\u0441\u0442\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u043e\u0439 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043a\u0440\u0438\u0442\u0435\u0440\u0438\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u043e\u0433\u043e \u043a\u0430\u043d\u0430\u043b\u0430 \u0441\u0432\u044f\u0437\u0438, \u043e\u0442 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u043e\u0432 \u0410\u0418\u0421 \u041c\u043e\u0420\u0435.",
+    "authors": [
+      "Georgy Belikov"
+    ]
+  },
+  {
+    "id": 2625,
+    "title": "\u0421\u0435\u0433\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f \u043d\u0435\u0439\u0440\u043e\u043d\u043e\u0432 \u043d\u0430 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f\u0445 \u0444\u0430\u0437\u043e\u0432\u043e-\u043a\u043e\u043d\u0442\u0440\u0430\u0441\u0442\u043d\u043e\u0439 \u043c\u0438\u043a\u0440\u043e\u0441\u043a\u043e\u043f\u0438\u0438",
+    "abstract": "\u041e\u0434\u043d\u0438\u043c \u0438\u0437 \u043e\u0431\u0449\u0435\u043f\u0440\u0438\u043d\u044f\u0442\u044b\u0445 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u043a\u0438 \u043d\u0435\u0439\u0440\u043e\u0434\u0435\u0433\u0435\u043d\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0435\u0439\u0440\u043e\u043d\u043e\u0432 \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0441\u0432\u0435\u0442\u043e\u0432\u043e\u0439 \u043c\u0438\u043a\u0440\u043e\u0441\u043a\u043e\u043f\u0438\u0438. \u0421\u0435\u0433\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u044f \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u043d\u0435\u0439\u0440\u043e\u043d\u043e\u0432 \u043d\u0430 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u044f\u0445, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0445 \u0441 \u043c\u0438\u043a\u0440\u043e\u0441\u043a\u043e\u043f\u0430 - \u0441\u043b\u043e\u0436\u043d\u0430\u044f \u0437\u0430\u0434\u0430\u0447\u0430, \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u044e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0430. \u0412 \u0440\u0430\u0431\u043e\u0442\u0435 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u044b \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0435 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u044b \u043f\u043e \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044e \u0433\u043b\u0443\u0431\u043e\u043a\u0438\u0445 \u0441\u0432\u0435\u0440\u0442\u043e\u0447\u043d\u044b\u0445 \u043d\u0435\u0439\u0440\u043e\u043d\u043d\u044b\u0445 \u0441\u0435\u0442\u0435\u0439 YOLOv8, YOLOv9 \u0438 Cellpose \u0434\u043b\u044f \u0441\u0435\u0433\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0438 \u0442\u0430\u043a\u0438\u0445 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439 \u0438\u0437 \u043d\u0430\u0431\u043e\u0440\u0430 \u0434\u0430\u043d\u043d\u044b\u0445 Sartorius Cell Instance Segmentation, \u043f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u044b\u0445 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u043e\u0432.",
+    "authors": [
+      "Enoel Arrokho"
+    ]
+  },
+  {
+    "id": 2528,
+    "title": "\u0421\u0410\u041c\u041e\u0423\u041f\u0420\u0410\u0412\u041b\u0415\u041d\u0418\u0415 \u041a\u041e\u0420\u041f\u041e\u0420\u0410\u0422\u0418\u0412\u041d\u041e\u0419 \u0421\u041e\u0422\u041e\u0412\u041e\u0419 \u0421\u0415\u0422\u042c\u042e \u041d\u0410 \u0411\u0410\u0417\u0415 \u041c\u0410\u0428\u0418\u041d\u041d\u041e\u0413\u041e \u041e\u0411\u0423\u0427\u0415\u041d\u0418\u042f \u0421 \u041f\u041e\u0414\u041a\u0420\u0415\u041f\u041b\u0415\u041d\u0418\u0415\u041c",
+    "abstract": "\u0421 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u0435\u043c \u0441\u0435\u0442\u0435\u0439 5G \u043d\u0430 \u0438\u0445 \u043e\u0441\u043d\u043e\u0432\u0435 \u043c\u043e\u0433\u0443\u0442 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u043e\u043c \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430\u043c\u0438, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0441\u0435\u0442\u044f\u043c\u0438 \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438. \u041e\u0431 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0435 \u043a \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0443 \u043d\u0430 \u0441\u0430\u043c\u043e\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0433\u043e\u0432\u043e\u0440\u0438\u0442 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435 \u0441\u043e\u0442\u043e\u0432\u044b\u0445 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 SON \u0438 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u043c\u0443 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044e \u0441\u0435\u0442\u0435\u0439.\r\n\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0435 \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442\u0441\u044f \u043f\u0440\u0435\u0434\u043f\u043e\u0441\u044b\u043b\u043a\u0438, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u044e\u0442\u0441\u044f \u0438\u0441\u0445\u043e\u0434\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f \u0438 \u0437\u0430\u0434\u0430\u0447\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0440\u0435\u0448\u0430\u044e\u0442\u0441\u044f \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0435 \u043a \u0431\u043e\u043b\u044c\u0448\u0435\u043c\u0443 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u043c\u0443 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044e, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u0438 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u0439 \u0441\u0435\u0442\u044c\u044e 5G, \u0442.\u0435. \u043a \u0431\u043e\u043b\u044c\u0448\u0435\u043c\u0443 \u0441\u0430\u043c\u043e\u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044e \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u043c \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u0441 \u043f\u043e\u0434\u043a\u0440\u0435\u043f\u043b\u0435\u043d\u0438\u0435\u043c, \u0441 \u0443\u0447\u0451\u0442\u043e\u043c \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u043e\u0432 \u0431\u0430\u0437\u043e\u0432\u043e\u0439 \u0441\u0435\u0442\u0438 \u0438 \u043e\u0431\u044a\u0435\u043a\u0442\u0430 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f.\r\n\u0424\u043e\u0440\u043c\u0443\u043b\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0431\u044a\u0435\u043a\u0442\u0430\u043c\u0438 \u0447\u0435\u0440\u0435\u0437 \u043a\u043b\u0430\u0441\u0442\u0435\u0440\u044b \u0441\u0435\u0442\u0435\u0439 5G \u0441 \u0432\u0438\u0440\u0442\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0435\u0439 \u0438 \u043c\u0430\u0448\u0438\u043d\u043d\u044b\u043c \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435\u043c.",
+    "authors": [
+      "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0428\u0438\u0440\u043e\u043a\u043e\u0432",
+      "Leonid Abrosimov"
+    ]
+  },
+  {
+    "id": 2589,
+    "title": "\u041e \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u043e\u0439 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b, \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u043e\u0439 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 \u0430\u0433\u0435\u043d\u0442\u043e\u0432",
+    "abstract": "\u0412 \u0440\u0430\u0431\u043e\u0442\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u043e\u0446\u0435\u043d\u043a\u0438 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430-\r\n\u043d\u0438\u044f \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u044b\u0445 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c (\u0434\u0430\u043b\u0435\u0435\r\n- \u0421\u0420\u0412\u0421), \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0440\u0430\u0441\u043f\u0430\u0440\u0430\u043b\u043b\u0435\u043b\u0438\u0432\u0430\u0435\u043c\u044b\u0445 \u0437\u0430\u0434\u0430\u0447\r\n\u0441 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c, \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0445\u0441\u044f \u043a \u043a\u043b\u0430\u0441\u0441\u0443 \u0437\u0430\u0434\u0430\u0447 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0433\u043e \u043f\u043e-\r\n\u0438\u0441\u043a\u0430. \u0412 \u0442\u0430\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 \u043d\u0430 \u0432\u0445\u043e\u0434 \u043f\u043e\u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u044b\u0439 \u043d\u0435\u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440\u043d\u044b\u0439\r\n\u043f\u043e\u0442\u043e\u043a \u0437\u0430\u0434\u0430\u0447, \u0438 \u0434\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438 \u0434\u043e\u043b\u0436\u043d\u043e \u0431\u044b\u0442\u044c \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u0438\u0440\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0435\r\n\u0432\u0440\u0435\u043c\u044f \u0435\u0451 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f. \u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435\u043c \u0437\u0430\u0434\u0430\u0447 \u0432 \u0442\u0430\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445\r\n\u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u0435\u043d\u043e \u043d\u0430 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u0430\u0445 \u0441\u043f\u043e\u0440\u0430\u0434\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f, \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u043d\u0430\r\n\u0431\u0430\u0437\u0435 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 \u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u0414\u043b\u044f \u043e\u0446\u0435\u043d\u043a\u0438 \u0432\u0430\u043b\u0438\u0434\u043d\u043e\u0441\u0442\u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f\r\n\u0442\u0430\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0432 \u0440\u0430\u0431\u043e\u0442\u0435 \u0432\u0432\u043e\u0434\u044f\u0442\u0441\u044f \u043f\u043e\u043d\u044f\u0442\u0438\u044f \u0443\u0434\u0435\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u0432\u0445\u043e\u0434\u043d\u043e-\r\n\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0430 \u0438 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u044b. \u041d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0432\u0432\u0435\u0434\u0435\u043d\u043d\u044b\u0445\r\n\u043f\u043e\u043d\u044f\u0442\u0438\u0439 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0430 \u043e\u0446\u0435\u043d\u043a\u0430 \u0441\u043e\u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u044b\u0445 \u0432\u0445\u043e\u0434-\r\n\u043d\u044b\u0445 \u043d\u0435\u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440\u043d\u044b\u0445 \u043f\u043e\u0442\u043e\u043a\u043e\u0432 \u0437\u0430\u0434\u0430\u0447 \u0441 \u043f\u043e\u0442\u043e\u043a\u0430\u043c\u0438 \u0440\u0435\u0448\u0435\u043d\u043d\u044b\u0445 \u0437\u0430\u0434\u0430\u0447 \u043d\u0430 \u0432\u044b\u0445\u043e\u0434\u0435.\r\n\u041f\u043e\u043a\u0430\u0437\u0430\u043d\u043e, \u0447\u0442\u043e \u0432 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0442\u0430\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0441 \u0440\u0435\u0441\u0443\u0440\u0441\u043d\u044b\u043c\u0438\r\n\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u0438\u044f\u043c\u0438, \u043d\u0435\u0441\u043c\u043e\u0442\u0440\u044f \u043d\u0430 \u0436\u0435\u0441\u0442\u043a\u0438\u0435 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f\r\n\u043a\u0430\u0436\u0434\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0435\u0442\u0441\u044f \u0437\u0430\u043a\u043e\u043d \u041b\u0438\u0442\u0442\u043b\u0430. \u0412\u0432\u0435\u0434\u0435\u043d\u043e \u043f\u043e\u043d\u044f\u0442\u0438\u0435 \u043a\u043e\u044d\u0444\u0444\u0438\u0446\u0438\u0435\u043d\u0442\u0430\r\n\u0440\u0435\u0441\u0443\u0440\u0441\u043d\u043e-\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0439 \u043a\u043e\u043c\u043f\u0440\u0435\u0441\u0441\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442, \u043d\u0430 \u0441\u043a\u043e\u043b\u044c\u043a\u043e \u0443\u0432\u0435\u043b\u0438\u0447\u0438-\r\n\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0442\u0430\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u043f\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044e \u0441\u043e \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043d\u044b\u043c\u0438\r\n\u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438, \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u044b\u043c\u0438 \u043d\u0430 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0449\u0438\u043a\u0430\u0445, \u043f\u0440\u0438 \u043e\u0434\u0438\u043d\u0430\u043a\u043e\u0432\u044b\u0445\r\n\u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u0440\u0435\u0441\u0443\u0440\u0441\u0430\u0445.",
+    "authors": [
+      "Pavel Golosov",
+      "Sergey Bolovtsov",
+      "Ivan Gostev"
+    ]
+  },
+  {
+    "id": 3099,
+    "title": "\u0414\u0435\u0440\u0435\u0432\u043e \u043e\u0442\u043a\u0430\u0437\u043e\u0432 \u0434\u043b\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0433\u0438\u0431\u0440\u0438\u0434\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u043d\u0438\u044f \u043d\u043e\u043c\u0435\u0440\u043e\u0432 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432",
+    "abstract": "\u0420\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0430 \u0430\u043f\u043f\u0430\u0440\u0430\u0442\u0443\u0440\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0433\u0438\u0431\u0440\u0438\u0434\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u043d\u0438\u044f \u043d\u043e\u043c\u0435\u0440\u043e\u0432 \u0442\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442\u043d\u044b\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u0438 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 \u0435\u0451 \u0441\u043e\u0441\u0442\u0430\u0432\u043d\u044b\u0445 \u0447\u0430\u0441\u0442\u0435\u0439. \u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d \u043e\u0431\u043e\u0431\u0449\u0451\u043d\u043d\u044b\u0439 \u0432\u0438\u0434 \u0434\u0435\u0440\u0435\u0432\u0430 \u043e\u0442\u043a\u0430\u0437\u043e\u0432, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0438\u0439 \u0434\u0435\u0442\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e \u043e\u0442\u043a\u0430\u0437\u043e\u0432 \u043c\u043e\u0434\u0443\u043b\u044f \u0441\u043e\u043f\u0440\u044f\u0436\u0435\u043d\u0438\u044f. \u0414\u0435\u0442\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u044b \u0434\u0435\u0440\u0435\u0432\u044c\u044f \u043e\u0442\u043a\u0430\u0437\u043e\u0432 \u0434\u043b\u044f \u043a\u043e\u043c\u043f\u043b\u0435\u043a\u0441\u0430 \u0432\u0438\u0434\u0435\u043e-\u0444\u0438\u043a\u0441\u0430\u0446\u0438\u0438 \u0438 \u0440\u0430\u0434\u0438\u043e\u0447\u0430\u0441\u0442\u043e\u0442\u043d\u043e\u0439 \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438. \u041e\u0442\u043c\u0435\u0447\u0435\u043d\u044b \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438, \u043f\u0440\u0438\u0432\u043e\u0434\u044f\u0449\u0438\u0435 \u043a \u043e\u0442\u043a\u0430\u0437\u0430\u043c. \u041f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u044b \u043f\u043e\u0434\u0445\u043e\u0434\u044b \u043a \u0434\u0438\u0430\u0433\u043d\u043e\u0441\u0442\u0438\u043a\u0435 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u044b.",
+    "authors": [
+      "Dmitrii Aminev",
+      "Dmitry Kozyrev"
+    ]
+  },
+  {
+    "id": 2590,
+    "title": "\u041e\u043f\u0435\u0440\u0430\u0446\u0438\u0438 \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 \u043c\u043d\u043e\u0433\u043e\u043c\u0435\u0440\u043d\u044b\u0445 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043a\u043e\u043b\u043e\u043d\u043e\u0447\u043d\u044b\u0445 \u0421\u0423\u0411\u0414",
+    "abstract": "\u0420\u0430\u0431\u043e\u0442\u0430 \u043f\u043e\u0441\u0432\u044f\u0449\u0435\u043d\u0430 \u043c\u0435\u0442\u043e\u0434\u0430\u043c \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u043c\u043d\u043e\u0433\u043e\u043c\u0435\u0440\u043d\u044b\u0445 \u043c\u043e\u0434\u0435\u043b\u0435\u0439 \u0434\u0430\u043d\u043d\u044b\u0445 \u0434\u043b\u044f \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438, \u043d\u0430\u043a\u043e\u043f\u043b\u0435\u043d\u043d\u043e\u0439 \u0432 \u043a\u043e\u043b\u043e\u043d\u043e\u0447\u043d\u044b\u0445 \u0421\u0423\u0411\u0414. \u0422\u0430\u043a\u0438\u0435 \u0421\u0423\u0411\u0414 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u043f\u0440\u0438 \u043e\u0431\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0434\u0430\u043d\u043d\u044b\u0445, \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u0435\u043c\u044b\u0445 \u0432 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u044b\u0445 \u0431\u0438\u0437\u043d\u0435\u0441-\u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0432. \u041c\u043d\u043e\u0433\u043e\u043c\u0435\u0440\u043d\u043e\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0445 \u0434\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0438\u0445 \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u043c\u0438 OLAP. \u041f\u0440\u0438 \u044d\u0442\u043e\u043c \u0431\u0438\u0437\u043d\u0435\u0441-\u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0438 \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0442 \u0437\u0430\u0434\u0430\u0447\u0443 \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u043a\u0430\u043a \u0446\u0435\u043f\u043e\u0447\u043a\u0443 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0439 \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 OLAP. \u0421\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430 \u043a\u043e\u043b\u043e\u043d\u043e\u0447\u043d\u044b\u0445 \u0421\u0423\u0411\u0414 \u043f\u043e\u0440\u043e\u0436\u0434\u0430\u0435\u0442 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0443 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432 \u043f\u0440\u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0438 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 OLAP. \u041e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 \u0435\u0434\u0438\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439, \u043d\u0435\u0434\u043e\u0441\u0442\u0430\u0442\u043e\u043a \u0442\u043e\u0447\u043d\u043e\u0439 \u0441\u0435\u043c\u0430\u043d\u0442\u0438\u043a\u0438 \u0432 \u044d\u0442\u0438\u0445 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u044f\u0445 \u0441\u043e\u0437\u0434\u0430\u044e\u0442 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0438\u044f \u0434\u043b\u044f \u0438\u043d\u0442\u0435\u0440\u043f\u0440\u0435\u0442\u0430\u0446\u0438\u0438 \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432. \u0412 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0439 \u0440\u0430\u0431\u043e\u0442\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u044b \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u043f\u0435\u0446\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438 \u0434\u043b\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0442\u0438\u043f\u043e\u0432 \u043e\u043f\u0435\u0440\u0430\u0442\u043e\u0440\u043e\u0432 \u0438 \u043e\u043f\u0435\u0440\u0430\u0446\u0438\u0439 OLAP. \u041f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c\u044b\u0439 \u043f\u043e\u0434\u0445\u043e\u0434 \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u0434\u043b\u044f \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043c\u043d\u043e\u0433\u043e\u043c\u0435\u0440\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432 \u0445\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0430\u0445 \u0434\u0430\u043d\u043d\u044b\u0445, \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0445 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u043a\u043e\u043b\u043e\u043d\u043e\u0447\u043d\u044b\u0445 \u0421\u0423\u0411\u0414.",
+    "authors": [
+      "Dmitry Kunitsky",
+      "Maxim Fomin"
+    ]
+  },
+  {
+    "id": 2572,
+    "title": "Two different threshold-based stochastic drop mechanisms for queuing systems",
+    "abstract": "In this article two different threshold-based stochastic drop mechanisms of requests (either at the moment of arrival or at the moment of the end of service) for the $G|M|1|\\infty$ system are presented. The threshold (the control parameter of the drop mechanism) in the queue not only determines the moment when the stochastic dropping of tasks (arriving or accepted into the system) is enabled, but also sets the safe area in the queue from which accepted into the system tasks cannot be dropped. The formulas for the main probability characteristics of the system (such as the stationary distribution of the number of tasks in the system, the probabilities for arriving tasks to be served or to be dropped (lost)) are derived. For the case of a Poisson incoming flow, the obtained probabilistic characteristics are compared",
+    "authors": [
+      "Ivan Zaryadov",
+      "Tatiana Milovanova",
+      "Konstantin Samouylov"
+    ]
+  },
+  {
+    "id": 2766,
+    "title": "Mathematical Model of a Heterogeneous System Multymodal Data Transmission",
+    "abstract": "The purpose of this work is to find the probabilistic-time\r\ncharacteristics of network service during the transmission of multimodal\r\ninformation. For this purpose, a mathematical model of a heterogeneous\r\nmultimodal data transmission system has been constructed, the pecu-\r\nliarity of which is to consider Markov modulated Poisson flows as input\r\nmodality flows, each of which is controlled by one Markov chain with\r\na finite number of states, specified by a matrix of infinitesimal char-\r\nacteristics.Each input modality of a certain type is served for a ran-\r\ndom time according to the exponential probability distribution law. The\r\nconstructed model was studied numerically and conclusions were drawn\r\nabout promising directions for further research",
+    "authors": [
+      "Ekaterina Pankratova",
+      "Svetlana Moiseeva",
+      "Ekaterina Pakulova"
+    ]
+  },
+  {
+    "id": 2963,
+    "title": "Performance Analyzes of All-Optical Network With Non-Stationary Input Flow",
+    "abstract": "In this paper transient behavior of two-phase queueing system with a piecewise constant input flow is  investigated. The performance metrics of the system are found.",
+    "authors": [
+      "Konstantin Vytovtov",
+      "Elizaveta Barabanova"
+    ]
+  },
+  {
+    "id": 2962,
+    "title": "Analysis of functioning all-optical networks in transient mode using queueing theory and simulation modeling",
+    "abstract": "In this paper the analytical and simulation models of all-optical network consists of dual 4\u00d7 4 switches are presented. The analytical model of considered all-optical network is a two-phase queueing system with a limitation on the total queue size. The numerical results of studying system states probabilities, and a packet loss probability in transient mode depending on the service and arrival rate\u2019s ratio are presented.",
+    "authors": [
+      "Elizaveta Barabanova",
+      "Konstantin Vytovtov",
+      "Iskander Khafizov"
+    ]
+  },
+  {
+    "id": 2551,
+    "title": "Analysis of radio admission control scheme model for 5G network with NS and priority service",
+    "abstract": "In recent years, the actively researched technology of Network Slicing (NS), based on the concept of representing the overall network infrastructure as various customizable logical networks called slices, implies the division of mobile network operators into two groups: Infrastructure Providers (InPs) and Mobile Virtual Network Operators (MVNOs). The latter lease physical resources from InPs to create their slices to provide services to their users with varying quality of service (QoS) requirements. This article proposes a scheme for accessing network radio resources in NS-enabled networks, providing users with services with non-Guaranteed Bit Rate (non-GBR) and priority management based on the implementation of a user service interruption mechanism.",
+    "authors": [
+      "Tatyana Konovalova",
+      "Maxim Voshchansky",
+      "Ekaterina Markova"
+    ]
+  },
+  {
+    "id": 2518,
+    "title": "Analyzing Resource Reallocation Policies for 5G NR Network Slicing Using a Controllable Queuing Model with Signals",
+    "abstract": "Fifth-generation (5G) wireless networks offer a wide range of services for various industries, with high demands for performance, quality, and cost. Network slicing is a crucial component of 5G, dividing the network into virtual slices with specific resource requirements. This paper explores resource bandwidth scheduling between two slices, considering isolation and blocking requests. A controllable queuing system is developed, and the components of a continuous-time Markov decision process are considered.",
+    "authors": [
+      "Kseniia Leonteva",
+      "Ibram Ghebrial",
+      "Irina Kochetkova"
+    ]
+  },
+  {
+    "id": 2506,
+    "title": "\u041c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c  \u0433\u0435\u0442\u0435\u0440\u043e\u0433\u0435\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u043c\u043d\u043e\u0433\u043e\u043c\u043e\u0434\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445",
+    "abstract": "\u0426\u0435\u043b\u044c\u044e \u0434\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043d\u0430\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u043d\u044b\u0445 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0441\u0435\u0442\u0438 \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u043c\u043d\u043e\u0433\u043e\u043c\u043e\u0434\u0430\u043b\u044c\u043d\u043e\u0439 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438. \u0414\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0430 \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u0433\u0435\u0442\u0435\u0440\u043e\u0433\u0435\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u043c\u043d\u043e\u0433\u043e\u043c\u043e\u0434\u0430\u043b\u044c\u043d\u044b\u0445 \u0434\u0430\u043d\u043d\u044b\u0445, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u044c\u044e \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0435\u043d\u0438\u0435 \u0432 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043f\u043e\u0442\u043e\u043a\u043e\u0432 \u0432\u0445\u043e\u0434\u043d\u044b\u0445 \u043c\u043e\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439 \u043c\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438 \u043c\u043e\u0434\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0445 \u043f\u0443\u0430\u0441\u0441\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0445 \u043f\u043e\u0442\u043e\u043a\u043e\u0432, \u043a\u0430\u0436\u0434\u044b\u0439 \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043e\u0434\u043d\u043e\u0439 \u0446\u0435\u043f\u044c\u044e \u041c\u0430\u0440\u043a\u043e\u0432\u0430 \u0441 \u043a\u043e\u043d\u0435\u0447\u043d\u044b\u043c \u0447\u0438\u0441\u043b\u043e\u043c \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0439, \u0437\u0430\u0434\u0430\u043d\u043d\u043e\u0439 \u043c\u0430\u0442\u0440\u0438\u0446\u0435\u0439 \u0438\u043d\u0444\u0438\u043d\u0438\u0442\u0435\u0437\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0445 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a. \u041a\u0430\u0436\u0434\u0430\u044f \u0432\u0445\u043e\u0434\u043d\u0430\u044f \u043c\u043e\u0434\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u0442\u0438\u043f\u0430 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432 \u0442\u0435\u0447\u0435\u043d\u0438\u0435 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0433\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e \u044d\u043a\u0441\u043f\u043e\u043d\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0437\u0430\u043a\u043e\u043d\u0443 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0435\u0439. \u041f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u0431\u044b\u043b\u0430 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0430 \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e \u0438 \u0441\u0434\u0435\u043b\u0430\u043d\u044b \u0432\u044b\u0432\u043e\u0434\u044b \u043e \u043f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0445 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f\u0445 \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u0445 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0439.",
+    "authors": [
+      "Svetlana Moiseeva",
+      "Ekaterina Pankratova",
+      "Ekaterina Pakulova"
+    ]
+  },
+  {
+    "id": 2453,
+    "title": "G-\u0441\u0435\u0442\u044c \u0441 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u044b\u043c\u0438 \u0438 \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d\u043d\u044b\u043c\u0438 \u043e\u0447\u0435\u0440\u0435\u0434\u044f\u043c\u0438 \u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u0441\u0438\u0433\u043d\u0430\u043b\u043e\u0432 \u043c\u0435\u0436\u0434\u0443 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438 \u0441\u0435\u0442\u0438",
+    "abstract": "\u041e\u0431\u044a\u0435\u043a\u0442\u043e\u043c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u0441\u0442\u0430\u0442\u044c\u0435 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f G-\u0441\u0435\u0442\u044c \u0441\u043e\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u0438\u0437 \u043a\u0430\u0440\u0430\u043d\u0442\u0438\u043d\u043d\u044b\u0445, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044c\u043d\u044b\u0445, \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0445 \u043e\u0447\u0435\u0440\u0435\u0434\u0435\u0439 \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445  \u0438 \u0441\u0438\u0433\u043d\u0430\u043b\u043e\u0432. \u0421\u0438\u0433\u043d\u0430\u043b\u044b \u043f\u043e\u0441\u043b\u0435 \u0443\u043d\u0438\u0447\u0442\u043e\u0436\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0435\u043d\u0438\u044f \u0432 \u0434\u0440\u0443\u0433\u0443\u044e \u0441\u0438\u0441\u0442\u0435\u043c\u0443 \u043e\u0434\u043d\u043e\u0439 \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u0437\u0430\u044f\u0432\u043a\u0438  \u043c\u043e\u0433\u0443\u0442 \u043a\u0430\u043a \u043f\u043e\u043a\u0438\u0434\u0430\u0442\u044c \u0441\u0435\u0442\u044c, \u0442\u0430\u043a \u0438 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u0442\u044c\u0441\u044f \u043c\u0435\u0436\u0434\u0443 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438 \u0441\u0435\u0442\u0438. \u0414\u0430\u043d\u043d\u044b\u0439 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u044c\u044e \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0441\u0435\u0442\u0438, \u0432 \u043a\u0430\u0436\u0434\u043e\u043c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u043e \u0430\u043d\u0442\u0438\u0432\u0438\u0440\u0443\u0441\u043d\u043e\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u043d\u043e\u0435 \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0435\u043d\u0438\u0435 (\u0410\u041f\u041e) \u0438 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044f\u043c\u0438 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u0432\u0440\u0435\u0434\u043e\u043d\u043e\u0441\u043d\u043e\u0433\u043e \u043a\u043e\u0434\u0430 \u043c\u0435\u0436\u0434\u0443 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438 \u0441\u0435\u0442\u0438 \u0438 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u043d\u0430\u0433\u0440\u0443\u0437\u043a\u043e\u0439 \u0432 \u0441\u0435\u0442\u0438. \u041f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u0432 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u0434\u043e\u043b\u0435 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0432\u0438\u0440\u0443\u0441 \u043c\u043e\u0436\u0435\u0442 \u043e\u0431\u043c\u0430\u043d\u0443\u0442\u044c \u0410\u041f\u041e \u0441 \u043f\u0440\u0438\u0447\u0438\u043d\u0438\u0442\u044c \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u0432\u0440\u0435\u0434. \u0422\u0430\u043a\u043e\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0434\u043e \u0442\u0435\u0445 \u043f\u043e\u0440, \u043f\u043e\u043a\u0430 \u0432\u0438\u0440\u0443\u0441 \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d \u0410\u041f\u041e \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b. \u0421 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043c\u0435\u0442\u043e\u0434\u0430 \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0438\u0431\u043b\u0438\u0436\u0435\u043d\u0438\u0439, \u0441\u043e\u0432\u043c\u0435\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0441 \u043c\u0435\u0442\u043e\u0434\u043e\u043c \u0440\u044f\u0434\u043e\u0432 (\u041c\u041f\u041f) \u043d\u0430\u0439\u0434\u0435\u043d\u044b \u043d\u0435\u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440\u043d\u044b\u0435 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0438 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0439 \u0434\u0430\u043d\u043d\u043e\u0439 \u0441\u0435\u0442\u0438.",
+    "authors": [
+      "Dzmitry Kopats"
+    ]
+  },
+  {
+    "id": 2510,
+    "title": "\u041e \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0440\u044f\u0434\u043e\u0432 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0439 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u043c\u043e\u0433\u043e \u0441\u0438\u0433\u043d\u0430\u043b\u0430 \u043d\u0430 \u043e\u0441\u043d\u043e\u0432\u0435 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u0439 \u0432 \u0442\u0435\u0440\u0430\u0433\u0435\u0440\u0446\u043e\u0432\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 6G",
+    "abstract": "\u0411\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u0443\u0442\u0435\u0439 \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u044f \u043c\u0435\u0436\u0434\u0443 \u0431\u0430\u0437\u043e\u0432\u043e\u0439 \u0441\u0442\u0430\u043d\u0446\u0438\u0435\u0439 (\u0411\u0421) \u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u043c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e\u043c (\u041f\u0423), \u0430 \u0442\u0430\u043a\u0436\u0435 \u043c\u0438\u043a\u0440\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438\u0437-\u0437\u0430 \u0431\u044b\u0441\u0442\u0440\u043e\u0433\u043e \u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u0432 \u0440\u0443\u043a\u0430\u0445 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044e\u0442 \u043d\u0430\u0438\u0431\u043e\u043b\u044c\u0448\u0435\u0435 \u0432\u043b\u0438\u044f\u043d\u0438\u0435 \u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0441\u0438\u0441\u0442\u0435\u043c \u0441\u0432\u044f\u0437\u0438 \u0432 (\u0441\u0443\u0431-)\u0442\u0435\u0440\u0430\u0433\u0435\u0440\u0446\u0435\u0432\u043e\u043c \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u0435 (0,1-0,3 \u0438 0,3-3 \u0422\u0413\u0446). \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043c\u0435\u0442\u043e\u0434\u043e\u0432 \u043f\u043e\u0432\u044b\u0448\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0442\u0430\u043a\u0438\u0445 \u0441\u0438\u0441\u0442\u0435\u043c, \u0442\u0440\u0435\u0431\u0443\u0435\u0442 \u0442\u0449\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0434\u0438\u043d\u0430\u043c\u0438\u043a\u0438 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u043c\u043e\u0433\u043e \u0441\u0438\u0433\u043d\u0430\u043b\u0430. \u041e\u0434\u043d\u0430\u043a\u043e \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0437\u043c\u0435\u0440\u0435\u043d\u0438\u044f \u043d\u0430 \u0434\u0430\u043d\u043d\u043e\u043c \u044d\u0442\u0430\u043f\u0435 \u0432\u043d\u0435\u0434\u0440\u0435\u043d\u0438\u044f \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432 \u0422\u0413\u0446 \u0434\u0438\u0430\u043f\u0430\u0437\u043e\u043d\u0430 \u0441\u043b\u043e\u0436\u043d\u044b \u0438, \u043a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u043e, \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435\u043c \u044d\u0442\u0438\u0445 \u044f\u0432\u043b\u0435\u043d\u0438\u0439 \u043f\u043e-\u043e\u0442\u0434\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438. \u0412 \u044d\u0442\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0435, \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d \u0430\u043b\u0433\u043e\u0440\u0438\u0442\u043c \u0434\u043b\u044f \u0433\u0435\u043d\u0435\u0440\u0430\u0446\u0438\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0440\u044f\u0434\u043e\u0432 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0439 \u043c\u043e\u0449\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u043c\u043e\u0433\u043e \u0441\u0438\u0433\u043d\u0430\u043b\u0430, \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0435\u043c\u043e\u0439 \u043d\u0430 \u041f\u0423, \u0438 \u0437\u0430\u0432\u0438\u0441\u044f\u0449\u0435\u0439 \u043e\u0442 \u044d\u0444\u0444\u0435\u043a\u0442\u043e\u0432 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438, \u043c\u0438\u043a\u0440\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u0438, \u0430 \u0442\u0430\u043a\u0436\u0435 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u044b \u043f\u043e\u0438\u0441\u043a\u0430 \u043b\u0443\u0447\u0430. \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u0432 \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u043c \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u044b \u0434\u043b\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0437\u0430\u0434\u0430\u0447, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u043e\u0446\u0435\u043d\u043a\u0443 \u044d\u043d\u0435\u0440\u0433\u043e\u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u0438 \u0422\u0413\u0446-\u0441\u0432\u044f\u0437\u0438, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0443 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0442\u0435\u0441\u0442\u0430 \u0434\u043b\u044f \u0440\u0430\u0441\u043f\u043e\u0437\u043d\u0430\u0432\u0430\u043d\u0438\u044f \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0438 \u0438 \u043c\u0438\u043a\u0440\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0438 \u0442.\u0434.",
+    "authors": [
+      "Vitalii Beschastnyi",
+      "Egor Machnev",
+      "Elizaveta Golos",
+      "Daria Ostrikova",
+      "Yuliya Gaidamaka",
+      "Alexander Shurakov",
+      "Gregory Goltsman"
+    ]
+  },
+  {
+    "id": 2462,
+    "title": "\u0412\u043b\u0438\u044f\u043d\u0438\u0435 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a \u043f\u0440\u043e\u043f\u0443\u0441\u043a\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043a\u0430\u043d\u0430\u043b\u0430 \u043d\u0430 \u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0443 \u043f\u0440\u0438 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430\u0445 \u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e\u043b\u0443\u0434\u0443\u043f\u043b\u0435\u043a\u0441\u043d\u043e\u0433\u043e \u0440\u0435\u0436\u0438\u043c\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438",
+    "abstract": "\u041e\u0434\u043d\u0438\u043c \u0438\u0437 \u0441\u043f\u043e\u0441\u043e\u0431\u043e\u0432 \u0431\u043e\u0440\u044c\u0431\u044b \u0441 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0435\u0439 \u0432 \u0431\u0435\u0441\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u0434\u0430\u043d\u043d\u044b\u0445 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0440\u0430\u0437\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u0432\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438, \u0440\u0435\u0430\u043b\u0438\u0437\u0443\u044e\u0449\u0435\u0435\u0441\u044f \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438. \u041c\u043d\u043e\u0433\u0438\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u043f\u0440\u0438\u0441\u0443\u0449\u0443\u044e \u0431\u0435\u0441\u043f\u0440\u043e\u0432\u043e\u0434\u043d\u044b\u043c \u043a\u0430\u043d\u0430\u043b\u0430\u043c \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043f\u0440\u043e\u043f\u0443\u0441\u043a\u043d\u0443\u044e \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c. \u0418\u0437\u0432\u0435\u0441\u0442\u043d\u043e, \u0447\u0442\u043e \u0434\u0438\u0441\u043f\u0435\u0440\u0441\u0438\u044f \u044d\u0442\u043e\u0439 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 \u043d\u0435 \u0432\u043b\u0438\u044f\u0435\u0442 \u043d\u0430 \u043f\u0440\u043e\u043f\u0443\u0441\u043a\u043d\u0443\u044e \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438, \u043e\u0434\u043d\u0430\u043a\u043e \u043d\u0435\u044f\u0441\u043d\u044b\u043c \u043e\u0441\u0442\u0430\u0435\u0442\u0441\u044f \u0435\u0435 \u0432\u043b\u0438\u044f\u043d\u0438\u0435 \u043d\u0430 \u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0438 \u0432 \u0441\u0435\u0442\u0438. \u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0435 \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u043e \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0435 \u0437\u0430\u0434\u0435\u0440\u0436\u0435\u043a \u0432 \u0441\u0435\u0442\u0438 \u0441 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f\u043c\u0438 \u0434\u0438\u0441\u043f\u0435\u0440\u0441\u0438\u0438 \u043f\u0440\u043e\u043f\u0443\u0441\u043a\u043d\u043e\u0439 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043a\u0430\u043d\u0430\u043b\u043e\u0432 \u043f\u0440\u0438 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430\u0445 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438. \u0422\u0430\u043a\u0436\u0435 \u0432 \u0440\u0430\u0431\u043e\u0442\u0435 \u043e\u0446\u0435\u043d\u0438\u0432\u0430\u044e\u0442\u0441\u044f \u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u043a, \u043d\u0435 \u0443\u0447\u0438\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0445 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0435 \u043f\u0440\u043e\u043f\u0443\u0441\u043a\u043d\u044b\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u043a\u0430\u043d\u0430\u043b\u043e\u0432.",
+    "authors": [
+      "Anna Zhivtsova",
+      "Vitalii Beschastnyi",
+      "Konstantin Samouylov"
+    ]
+  },
+  {
+    "id": 2763,
+    "title": "\u041f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043c\u043e\u0434\u0435\u043b\u0438 \u043f\u043e\u043b\u043b\u0438\u043d\u0433\u0430 \u0441 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u044b\u043c \u0447\u0438\u0441\u043b\u043e\u043c \u043e\u0447\u0435\u0440\u0435\u0434\u0435\u0439 \u0434\u043b\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u043a\u0440\u0443\u0433\u043e\u0432\u043e\u0439 \u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0438 \u043f\u0430\u043a\u0435\u0442\u043e\u0432 \u0432 \u0441\u0435\u0442\u0438 IAB",
+    "abstract": "\u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u044f \u0438\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0434\u043e\u0441\u0442\u0443\u043f\u0430 \u0438 \u0442\u0440\u0430\u043d\u0437\u0438\u0442\u0430 (IAB, Integrated Access\r\nand Backhaul) \u0432 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0441\u0435\u0442\u044f\u0445 \u043d\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f (5G/6G) \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442\r\n\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u043b\u043e\u0442\u043d\u0443\u044e \u0441\u0435\u0442\u044c \u0440\u0435\u0442\u0440\u0430\u043d\u0441\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u0445 \u0443\u0437\u043b\u043e\u0432, \u0447\u0442\u043e \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438 \u043f\u0440\u043e\u0449\u0435\r\n\u0438 \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u043d\u0435\u0435, \u0447\u0435\u043c \u043f\u043e\u043b\u043d\u043e\u0446\u0435\u043d\u043d\u044b\u0435 \u0431\u0430\u0437\u043e\u0432\u044b\u0435 \u0441\u0442\u0430\u043d\u0446\u0438\u0438. \u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442-\r\n\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0441\u0435\u0442\u044c IAB, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u043f\u043e\u043b\u0443\u0434\u0443\u043f\u043b\u0435\u043a\u0441\u043d\u043e\u043c \u0440\u0435\u0436\u0438\u043c\u0435 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438\r\n\u0434\u0430\u043d\u043d\u044b\u0445.\r\n\u0414\u043b\u044f \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0433\u0440\u0430\u043d\u0438\u0447\u043d\u043e\u0433\u043e \u0443\u0437\u043b\u0430 \u0441\u0435\u0442\u0438 IAB \u043c\u044b \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u0435\u043c\r\n\u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043c\u043e\u0434\u0435\u043b\u044c \u043f\u043e\u043b\u043b\u0438\u043d\u0433\u0430 \u0441 \u0434\u0432\u0443\u043c\u044f \u043e\u0447\u0435\u0440\u0435\u0434\u044f\u043c\u0438, \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u0443\u044e\u0449\u0443\u044e \u0432\r\n\u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u043e\u043c \u0432\u0440\u0435\u043c\u0435\u043d\u0438. \u041c\u043e\u0434\u0435\u043b\u044c \u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0430\u043c\u0438 \u0442\u0435\u043e\u0440\u0438\u0438 \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0433\u043e\r\n\u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f, \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u044f\u0449\u0438\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439 (\u041f\u0424) \u0438 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u043b\u044c\u043d\u044b\u0445 \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430-\r\n\u043d\u0438\u0439, \u0442\u0430\u043a\u0438\u0445 \u043a\u0430\u043a \u043f\u0440\u0435\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u041b\u0430\u043f\u043b\u0430\u0441\u0430 (\u041f\u041b) \u0438 \u041b\u0430\u043f\u043b\u0430\u0441\u0430-\u0421\u0442\u0438\u043b\u0442\u044c\u0435\u0441\u0430 (\u041f\u041b\u0421).\r\n\u0412 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0435 \u0431\u044b\u043b\u0430 \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0430 \u043f\u043e\u043b\u043b\u0438\u043d\u0433\u043e\u0432\u0430\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u0441 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u044b\u043c \u0447\u0438\u0441-\r\n\u043b\u043e\u043c \u043e\u0447\u0435\u0440\u0435\u0434\u0435\u0439, \u0446\u0438\u043a\u043b\u0438\u0447\u0435\u0441\u043a\u0438\u043c \u043f\u043e\u0440\u044f\u0434\u043a\u043e\u043c \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435\u043c \u0437\u0430\u044f\u0432\u043e\u043a\r\n\u0432 \u043f\u0435\u0440\u0438\u043e\u0434\u044b \u043f\u0435\u0440\u0435\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u0431\u043e\u0440\u0430 \u043f\u043e\u0441\u043b\u0435 \u043e\u043a\u043e\u043d\u0447\u0430\u043d\u0438\u044f \u0446\u0438\u043a\u043b\u0430 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f.\r\n\u0414\u043b\u044f \u044d\u0442\u043e\u0439 \u043c\u043e\u0434\u0435\u043b\u0438 \u0431\u044b\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u041f\u041b\u0421, \u043d\u0430\u0447\u0430\u043b\u044c\u043d\u044b\u0435 \u0438 \u0446\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0435 \u043c\u043e\u043c\u0435\u043d\u0442\u044b\r\n\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043e\u0440\u044f\u0434\u043a\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f (\u0424\u0420) \u0432\u0440\u0435\u043c\u0451\u043d \u043f\u0440\u0435-\r\n\u0431\u044b\u0432\u0430\u043d\u0438\u044f \u0437\u0430\u044f\u0432\u043e\u043a \u0432 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u043f\u0440\u0438 \u044d\u043a\u0441\u043f\u043e\u043d\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f\u0445 \u0432\u0440\u0435\u043c\u0451\u043d\r\n\u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f. \u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e, \u0431\u044b\u043b \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0439 \u0430\u043d\u0430\u043b\u0438\u0437 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u0430\r\n\u043a\u0440\u0443\u0433\u043e\u0432\u043e\u0439 \u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0438 (RTT, Round-Trip Time) \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u0434\u0430\u043d\u043d\u044b\u0445, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0439 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c \u043c\u0435\u0442\u0440\u0438\u043a\u0443 \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438.",
+    "authors": [
+      "Dmitry Nikolaev",
+      "Andrey Gorshenin",
+      "Yuliya Gaidamaka"
+    ]
+  },
+  {
+    "id": 2527,
+    "title": "\u041f\u0438\u043a\u043e\u0432\u044b\u0439 \u0432\u043e\u0437\u0440\u0430\u0441\u0442 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 \u043c\u043d\u043e\u0433\u043e\u0430\u0434\u0440\u0435\u0441\u043d\u043e\u0439 \u0441\u0435\u0442\u0438 \u0441 \u043f\u043e\u0440\u043e\u0433\u043e\u0432\u043e\u0439 \u0441\u0445\u0435\u043c\u043e\u0439 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438",
+    "abstract": "\u0412 \u0440\u0430\u0431\u043e\u0442\u0435 \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0430 \u043e\u0434\u043d\u043e\u0443\u0440\u043e\u0432\u043d\u0435\u0432\u0430\u044f \u043c\u043d\u043e\u0433\u043e\u0430\u0434\u0440\u0435\u0441\u043d\u0430\u044f \u0441\u0435\u0442\u044c \u0441 \u0434\u0440\u0435\u0432\u043e\u0432\u0438\u0434\u043d\u043e\u0439 \u0442\u043e\u043f\u043e\u043b\u043e\u0433\u0438\u0435\u0439. \u0412 \u043a\u043e\u0440\u043d\u0435 \u0441\u0435\u0442\u0438 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0433\u0435\u043d\u0435\u0440\u0438\u0440\u0443\u0435\u0442 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043e \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0443\u0434\u0430\u043b\u0435\u043d\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0435\u0442 \u0438\u0445 n \u043a\u043e\u043d\u0435\u0447\u043d\u044b\u043c \u0443\u0437\u043b\u0430\u043c, \u043f\u0440\u0438\u0447\u0435\u043c \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0441\u0445\u0435\u043c\u0430 \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u0441 \u043f\u043e\u0440\u043e\u0433\u043e\u043c k. \u0421\u0445\u0435\u043c\u0430 \u0437\u0430\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0432 \u043f\u0440\u0435\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u0438 \u043f\u0435\u0440\u0435\u0434\u0430\u0447\u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0441\u0442\u0430\u0432\u0448\u0438\u043c\u0441\u044f n-k \u0443\u0437\u043b\u0430\u043c \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e, \u043a\u0430\u043a \u043f\u0435\u0440\u0432\u044b\u0435 k \u0443\u0437\u043b\u043e\u0432 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0434\u044f\u0442 \u0435\u0433\u043e \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435.\r\n\u0418\u043d\u0442\u0435\u0440\u0435\u0441 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u043f\u0438\u043a\u043e\u0432\u044b\u0439 \u0432\u043e\u0437\u0440\u0430\u0441\u0442 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043d\u0430 \u043e\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0445 \u0443\u0437\u043b\u0430\u0445. \u0410\u043d\u0430\u043b\u0438\u0437 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u043c\u0430\u0442\u0435\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0438 \u0438\u043c\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u0430 \u0444\u043e\u0440\u043c\u0443\u043b\u0430 \u0434\u043b\u044f \u043f\u0438\u043a\u043e\u0432\u043e\u0433\u043e \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043d\u0430 \u043a\u043e\u043d\u0435\u0447\u043d\u043e\u043c \u0443\u0437\u043b\u0435, \u0443\u0441\u0440\u0435\u0434\u043d\u0435\u043d\u043d\u043e\u0433\u043e \u043f\u043e \u0443\u0437\u043b\u0430\u043c \u0438 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f\u043c, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0441\u043e\u0432\u043f\u0430\u0434\u0430\u0435\u0442 \u0441 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430\u043c\u0438 \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f. \u0410\u043d\u0430\u043b\u0438\u0437 \u043f\u043e\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442, \u0447\u0442\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0445\u0435\u043c\u044b \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0438 \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u0435\u0442 \u043d\u0435 \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u043e\u0432\u044b\u0441\u0438\u0442\u044c \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0440\u0430\u0434\u0438\u043e\u0440\u0435\u0441\u0443\u0440\u0441\u0430 \u0437\u0430 \u0441\u0447\u0435\u0442 \u0441\u043e\u043a\u0440\u0430\u0449\u0435\u043d\u0438\u044f \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u0430 \u043f\u0435\u0440\u0435\u0434\u0430\u0447, \u043d\u043e \u0438 \u0443\u043c\u0435\u043d\u044c\u0448\u0438\u0442\u044c \u0432\u043e\u0437\u0440\u0430\u0441\u0442 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043d\u0430 \u043e\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0445 \u0443\u0437\u043b\u0430\u0445",
+    "authors": [
+      "Elisaveta Gaydamaka",
+      "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u041c\u0438\u043b\u0451\u0445\u0438\u043d",
+      "Konstantin Samouylov"
+    ]
+  },
+  {
+    "id": 2460,
+    "title": "\u041e \u0440\u0435\u0448\u0435\u043d\u0438\u0438 \u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440\u043d\u044b\u0445 \u0443\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0439 \u043c\u0435\u0442\u043e\u0434\u043e\u043c \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0434\u043b\u044f   \u043f\u043e\u0440\u043e\u0433\u043e\u0432\u043e\u0433\u043e \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043a\u043e\u043d\u0444\u043b\u0438\u043a\u0442\u043d\u044b\u0445 \u043f\u043e\u0442\u043e\u043a\u043e\u0432",
+    "abstract": "\u0420\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0437\u0430\u0434\u0430\u0447\u0430 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u0447\u0438\u0441\u043b\u0430 \u043d\u0435\u043e\u0440\u0434\u0438\u043d\u0430\u0440\u043d\u044b\u0445 \u043f\u0443\u0430\u0441\u0441\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u0445  \u043f\u043e\u0442\u043e\u043a\u043e\u0432. \u041e\u0431\u0441\u043b\u0443\u0436\u0435\u043d\u043d\u043e\u0435 \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u043d\u0438\u0435 \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043e \u043d\u0430 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e\u0435 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435. \u041f\u043e\u0441\u043b\u0435 \u043a\u0430\u0436\u0434\u043e\u0433\u043e \u0430\u043a\u0442\u0430 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u0430\u043a\u0442 \u043f\u0435\u0440\u0435\u043d\u0430\u043b\u0430\u0434\u043a\u0438. \u0414\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0439 \u0438 \u043f\u0435\u0440\u0435\u043d\u0430\u043b\u0430\u0434\u043e\u043a \u0438\u043c\u0435\u044e\u0442 \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435. \u0421\u0442\u0440\u043e\u0438\u0442\u0441\u044f \u043c\u043e\u0434\u0435\u043b\u044c \u0432 \u0432\u0438\u0434\u0435 \u043c\u043d\u043e\u0433\u043e\u043c\u0435\u0440\u043d\u043e\u0433\u043e \u043c\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u0430 \u0441 \u043d\u0435\u043f\u0440\u0435\u0440\u044b\u0432\u043d\u044b\u043c \u0432\u0440\u0435\u043c\u0435\u043d\u0435\u043c.  \u041f\u0440\u0438\u0432\u043e\u0434\u044f\u0442\u0441\u044f \u0434\u0438\u0444\u0444\u0435\u0440\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0443\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u044b\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u044f\u0449\u0438\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439 \u0434\u043b\u0438\u043d \u043e\u0447\u0435\u0440\u0435\u0434\u0435\u0439 \u0438 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0435\u0433\u043e \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430, \u0438 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0443\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440\u043d\u044b\u0445 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u044f\u0449\u0438\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439. \u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0446\u0435\u043b\u044c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f - \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0438 \u043c\u0435\u0442\u043e\u0434\u0430 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0445 \u0432 \u0445\u043e\u0434\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u0443\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u0441\u0442\u0430\u0446\u0438\u043e\u043d\u0430\u0440\u043d\u044b\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439 \u0441 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u0435\u043c \u044f\u0437\u044b\u043a\u0430 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0441\u0438\u043c\u0432\u043e\u043b\u044c\u043d\u044b\u0445 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 (\u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u043d\u043e\u0439 \u0430\u043b\u0433\u0435\u0431\u0440\u044b).",
+    "authors": [
+      "Andrei Zorine"
+    ]
+  },
+  {
+    "id": 2507,
+    "title": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 RQ-\u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u0435\u043c \u0437\u0430\u044f\u0432\u043e\u043a \u0432 \u0431\u0443\u043d\u043a\u0435\u0440\u0435 \u0438 \u043d\u0430 \u043e\u0440\u0431\u0438\u0442\u0435 \u043c\u0435\u0442\u043e\u0434\u043e\u043c \u0430\u0441\u0438\u043c\u043f\u0442\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0434\u0438\u0444\u0444\u0443\u0437\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0437\u0430",
+    "abstract": "\u0412 \u0434\u0430\u043d\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u0435 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0433\u043e \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0441 \u043f\u0440\u043e\u0441\u0442\u0435\u0439\u0448\u0438\u043c \u0432\u0445\u043e\u0434\u044f\u0449\u0438\u043c \u043f\u043e\u0442\u043e\u043a\u043e\u043c, \u043e\u0434\u043d\u0438\u043c \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u043c \u043f\u0440\u0438\u0431\u043e\u0440\u043e\u043c, \u0432\u0440\u0435\u043c\u044f \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u044d\u043a\u0441\u043f\u043e\u043d\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u043e\u0439 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0439 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u043e\u0439. \u0414\u043b\u044f \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f \u0437\u0430\u044f\u0432\u043e\u043a \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439 \u0431\u0443\u043d\u043a\u0435\u0440 \u0438 \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430\u044f \u043e\u0440\u0431\u0438\u0442\u0430. \u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u0441\u044f \u043c\u0435\u0442\u043e\u0434\u043e\u043c \u0430\u0441\u0438\u043c\u043f\u0442\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0434\u0438\u0444\u0444\u0443\u0437\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0432 \u043f\u0440\u0435\u0434\u0435\u043b\u044c\u043d\u043e\u043c \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0437\u0430\u0434\u0435\u0440\u0436\u043a\u0438 \u0437\u0430\u044f\u0432\u043e\u043a \u043d\u0430 \u043e\u0440\u0431\u0438\u0442\u0435. \u041e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0430 \u0442\u043e\u0447\u043d\u043e\u0441\u0442\u044c \u0434\u0438\u0444\u0444\u0443\u0437\u0438\u043e\u043d\u043d\u043e\u0439 \u0430\u043f\u043f\u0440\u043e\u043a\u0441\u0438\u043c\u0430\u0446\u0438\u0438 \u043f\u0443\u0442\u0435\u043c \u0441\u0440\u0430\u0432\u043d\u0435\u043d\u0438\u044f \u0441 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u0430\u043c\u0438 \u0438\u043c\u0438\u0442\u0430\u0446\u0438\u043e\u043d\u043d\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f.",
+    "authors": [
+      "Artem Podgainov",
+      "Anatoly Nazarov"
+    ]
+  },
+  {
+    "id": 2616,
+    "title": "\u0414\u0432\u0443\u043c\u0435\u0440\u043d\u044b\u0439 \u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u041c\u041c\u0420\u0420 \u0432 \u043f\u0440\u0435\u0434\u0435\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u044f \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0439 \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0435\u0439 \u0446\u0435\u043f\u0438",
+    "abstract": "\u0412 \u0440\u0430\u0431\u043e\u0442\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0430 \u043c\u043e\u0434\u0435\u043b\u044c \u043f\u043e\u0442\u043e\u043a\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u0432 \u043c\u043d\u043e\u0433\u043e\u043c\u043e\u0434\u0430\u043b\u044c\u043d\u044b\u0445\r\n\u0441\u0438\u0441\u0442\u0435\u043c\u0430\u0445 \u0432 \u0432\u0438\u0434\u0435 \u0434\u0432\u0443\u043c\u0435\u0440\u043d\u043e\u0433\u043e \u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u041c\u041c\u0420P. \u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u043e \u0438\u0441\u0441\u043b\u0435\u0434\u043e-\r\n\u0432\u0430\u043d\u0438\u0435 \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u0442\u043e\u043a\u0430 \u043c\u0435\u0442\u043e\u0434\u043e\u043c \u0430\u0441\u0438\u043c\u043f\u0442\u043e\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0437\u0430 \u0432 \u0434\u0432\u0443\u0445 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445:\r\n\u043f\u0440\u0435\u0434\u0435\u043b\u044c\u043d\u043e \u0440\u0435\u0434\u043a\u0438\u0445 \u0438 \u043f\u0440\u0435\u0434\u0435\u043b\u044c\u043d\u043e \u0447\u0430\u0441\u0442\u044b\u0445 \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0439 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0439 \u043f\u043e\u0442\u043e\u043a\u0430. \u0422\u0430\u043a\u043e\u0439\r\n\u043f\u043e\u0442\u043e\u043a \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u044f\u0435\u0442\u0441\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u044e\u0449\u0438\u043c \u043c\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u043c \u0438 \u0434\u0432\u0443\u043c\u044f \u043c\u0430\u0442\u0440\u0438-\r\n\u0446\u0430\u043c\u0438 \u0443\u0441\u043b\u043e\u0432\u043d\u044b\u0445 \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u043e\u0441\u0442\u0435\u0439 \u043d\u0430\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u0441\u043e\u0431\u044b\u0442\u0438\u0439 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0438 \u0432\u0442\u043e\u0440\u043e\u0433\u043e\r\n\u0442\u0438\u043f\u043e\u0432 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439. \u041f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0444\u043e\u0440\u043c\u0443\u043b\u044b \u0434\u043b\u044f \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f \u0430\u043f\u043f\u0440\u043e\u043a\u0441\u0438\u043c\u0430\u0446\u0438\u0439 \u0447\u0438\u0441\u043b\u0430\r\n\u0441\u043e\u0431\u044b\u0442\u0438\u0439, \u043d\u0430\u0441\u0442\u0443\u043f\u0438\u0432\u0448\u0438\u0445 \u0432 \u043c\u0430\u0440\u043a\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u043c \u041c\u041c\u0420\u0420 \u0437\u0430 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u043d\u043e\u0435 \u0432\u0440\u0435\u043c\u044f.",
+    "authors": [
+      "Svetlana Paul",
+      "Anatoly Nazarov",
+      "Ivan Lapatin"
+    ]
+  },
+  {
+    "id": 2607,
+    "title": "\u041c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u0438\u0441\u0442\u0435\u043c \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f M/G/1/2 \u0441 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435\u043c \u0437\u0430\u044f\u0432\u043e\u043a",
+    "abstract": "\u0412 \u0440\u0430\u0431\u043e\u0442\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u044e\u0442\u0441\u044f \u043e\u0434\u043d\u043e\u0441\u0435\u0440\u0432\u0435\u0440\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0441 \u0431\u0443\u0444\u0435\u0440\u043e\u043c, \u0432\u043c\u0435\u0449\u0430\u044e\u0449\u0438\u043c \u043e\u0434\u043d\u043e \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0435, \u0432 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u043f\u0440\u0438 \u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0438 \u0441 \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e \u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0435\u0442\u0441\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u043e \u0434\u043e\u043f\u0443\u0441\u043a\u0435 \u0437\u0430\u044f\u0432\u043a\u0438 \u043d\u0430 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u0432\u0430 \u0442\u0438\u043f\u0430 \u043f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u044f \u043d\u043e\u0432\u044b\u0445 \u0437\u0430\u044f\u0432\u043e\u043a \u0432 \u0431\u0443\u0444\u0435\u0440: \u0441\u043d\u044f\u0442\u0438\u0435 \u043e\u0436\u0438\u0434\u0430\u044e\u0449\u0435\u0433\u043e \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0432 \u043c\u043e\u043c\u0435\u043d\u0442 \u043f\u0440\u0438\u0445\u043e\u0434\u0430 \u043d\u043e\u0432\u043e\u0433\u043e \u0438\u043b\u0438 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043a\u0430 \u0432\u0441\u0435\u0445 \u043d\u043e\u0432\u044b\u0445 \u0441\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u0439, \u043f\u043e\u043a\u0430 \u0431\u0443\u0444\u0435\u0440 \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d. \u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u044b \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0447\u0438\u0441\u043b\u0435\u043d\u043d\u043e\u0433\u043e \u043c\u043e\u0434\u0435\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u043b\u044f \u0441\u0438\u0441\u0442\u0435\u043c \u0441 \u043f\u0443\u0430\u0441\u0441\u043e\u043d\u043e\u0432\u0441\u043a\u0438\u043c \u0432\u0445\u043e\u0434\u043d\u044b\u043c \u043f\u043e\u0442\u043e\u043a\u043e\u043c  \u0438 \u0434\u0432\u0443\u043c\u044f \u0442\u0438\u043f\u0430\u043c\u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0439 \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f: \u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c  \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435\u043c \u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435\u043c \u041f\u0430\u0440\u0435\u0442\u043e II \u0442\u0438\u043f\u0430.",
+    "authors": [
+      "Andrey Alekseev",
+      "Irina Peshkova"
+    ]
+  },
+  {
+    "id": 2546,
+    "title": "\u041e\u0431 \u043e\u043f\u0442\u0438\u043c\u0430\u043b\u044c\u043d\u043e\u043c \u044d\u043a\u0441\u043f\u043e\u043d\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c \u0440\u0430\u0441\u0449\u0435\u043f\u043b\u0435\u043d\u0438\u0438 \u043f\u043b\u043e\u0442\u043d\u043e\u0441\u0442\u0438",
+    "abstract": "\u0412 \u0441\u0442\u0430\u0442\u044c\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0442\u0430\u043a \u043d\u0430\u0437\u044b\u0432\u0430\u0435\u043c\u044b\u0439 \u043c\u0435\u0442\u043e\u0434 \u044d\u043a\u0441\u043f\u043e\u043d\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u0449\u0435\u043f\u043b\u0435\u043d\u0438\u044f. \u0412 \u044d\u0442\u043e\u043c \u043c\u0435\u0442\u043e\u0434\u0435 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u0430\u044f \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0430 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043a\u0430\u043a \u0441\u043c\u0435\u0441\u044c, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0430\u044f (\u0441\u043c\u0435\u0449\u0451\u043d\u043d\u0443\u044e) \u044d\u043a\u0441\u043f\u043e\u043d\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u0443\u044e \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u0443\u044e \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u0443 (\u0444\u0430\u0437\u0443), \u0432\u0437\u0432\u0435\u0448\u0435\u043d\u043d\u0443\u044e \u0441 \u2019\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c\u044e \u0440\u0430\u0441\u0449\u0435\u043f\u043b\u0435\u043d\u0438\u044f\u2019. \u041e\u0441\u043d\u043e\u0432\u043d\u0430\u044f \u0446\u0435\u043b\u044c \u0441\u0442\u0430\u0442\u044c\u0438 \u2013 \u043f\u043e\u0438\u0441\u043a \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0439 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u043e\u0432, \u043c\u0430\u043a\u0441\u0438\u043c\u0438\u0437\u0438\u0440\u0443\u044e\u0449\u0438\u0445 \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u044c \u0440\u0430\u0441\u0449\u0435\u043f\u043b\u0435\u043d\u0438\u044f, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u044d\u0442\u043e \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442 \u0443\u0432\u0435\u043b\u0438\u0447\u0435\u043d\u0438\u0435 \u0447\u0430\u0441\u0442\u043e\u0442\u044b \u2019\u044d\u043a\u0441\u043f\u043e\u043d\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439\u2019\r\n\u0444\u0430\u0437\u044b. \u041f\u0440\u0438\u0432\u0435\u0434\u0435\u043d\u044b \u043e\u043f\u0442\u0438\u043c\u0430\u043b\u044c\u043d\u044b\u0435 \u0437\u043d\u0430\u0447\u0435\u043d\u0438\u044f \u043a\u043e\u043d\u0441\u0442\u0430\u043d\u0442 \u0434\u043b\u044f \u044d\u043a\u0441\u043f\u043e\u043d\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0440\u0430\u0441\u0449\u0435\u043f\u043b\u0435\u043d\u0438\u044f \u0433\u0430\u043c\u043c\u0430 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0439 \u0432\u0435\u043b\u0438\u0447\u0438\u043d\u044b.",
+    "authors": [
+      "Sergey Astafiev"
+    ]
+  },
+  {
+    "id": 2511,
+    "title": "\u0412\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u043d\u044b\u0435 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 \u0434\u0432\u0443\u043f\u043e\u0442\u043e\u0447\u043d\u043e\u0439 \u043d\u0435\u043e\u0434\u043d\u043e\u0440\u043e\u0434\u043d\u043e\u0439 \u0421\u041c\u041e \u0432 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0439 \u043c\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u043e\u0439 \u0441\u0440\u0435\u0434\u0435",
+    "abstract": "\u0412 \u0440\u0430\u0431\u043e\u0442\u0435 \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0433\u043e \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u044f, \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u0443\u044e\u0449\u0430\u044f \u0432 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u043e\u0439 \u0441\u0440\u0435\u0434\u0435. \u041d\u0430 \u0432\u0445\u043e\u0434 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u043e\u0441\u0442\u0443\u043f\u0430\u044e\u0442 \u0434\u0432\u0430 \u043f\u043e\u0442\u043e\u043a\u0430 \u0440\u0430\u0437\u043d\u043e\u0442\u0438\u043f\u043d\u044b\u0445 \u0437\u0430\u044f\u0432\u043e\u043a, \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u0442\u0438\u043f\u043e\u043c \u0437\u0430\u044f\u0432\u043a\u0438 \u043d\u0430 \u0434\u0432\u0443\u0445 \u0431\u043b\u043e\u043a\u0430\u0445, \u043a\u0430\u0436\u0434\u044b\u0439 \u0438\u0437 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u043d\u0435\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u043f\u0440\u0438\u0431\u043e\u0440\u043e\u0432. \u041f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u0441\u043b\u0443\u0447\u0430\u0439\u043d\u0430\u044f \u0441\u0440\u0435\u0434\u0430 \u0432\u043b\u0438\u044f\u0435\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 \u0432\u0445\u043e\u0434\u044f\u0449\u0438\u0435 \u043f\u043e\u0442\u043e\u043a\u0438, \u043c\u043e\u0436\u043d\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043e \u0442\u043e\u043c, \u0447\u0442\u043e \u043d\u0430 \u0432\u0445\u043e\u0434 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043f\u043e\u0441\u0442\u0443\u043f\u0430\u044e\u0442 \u0434\u0432\u0430 MMPP-\u043f\u043e\u0442\u043e\u043a\u0430, \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u043c\u044b\u0445 \u043e\u0434\u043d\u0438\u043c \u043c\u0430\u0440\u043a\u043e\u0432\u0441\u043a\u0438\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u043c. \u0414\u043b\u044f \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u043c\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u043c\u0435\u0442\u043e\u0434\u043e\u043c \u043c\u043e\u043c\u0435\u043d\u0442\u043e\u0432 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u043d\u044b\u0435 \u0445\u0430\u0440\u0430\u043a\u0442\u0435\u0440\u0438\u0441\u0442\u0438\u043a\u0438 \u0447\u0438\u0441\u043b\u0430 \u0437\u0430\u044f\u0432\u043e\u043a \u0434\u0432\u0443\u0445 \u0442\u0438\u043f\u043e\u0432.",
+    "authors": [
+      "Ekaterina Pavlova",
+      "\u0421\u0442\u0435\u043f\u0430\u043d \u0428\u0435\u043f\u0438\u043b\u043e\u0432"
+    ]
+  },
+  {
+    "id": 2615,
+    "title": "A Technique of Resource Allocation for Computationally Hard Optimization Problems Solving in Distributed Heterogeneous Dynamic Environments",
+    "abstract": "In this paper a technique of resource allocation for computationally hard optimization problems solving in distributed heterogeneous dynamic environments\r\nis presented and described. Despite the wide range of various metaheuristic approaches to the optimization problem solving, including distributed ones, there\r\nis a lack of detailed research which spotlights the tight connection between\r\nthe optimization problem solution quality, the method of metaheuristic algorithms instances distribution and resource allocation for algorithms instances\r\nruns. The technique proposed is based on the metaheuristics peculiarity to improve the solution quality with the increase of objective function calls number.\r\nThe current research focuses on the resource allocation for the procedures of\r\nmetaheuristic blocks forming and distribution and on the optimization problem processing on a heterogeneous set of computing nodes. Simulation results\r\ndemonstrate the positive effect of developed technique usage, which consists in\r\nconsiderable optimization problem solution improvement.",
+    "authors": [
+      "Anna Klimenko"
+    ]
+  },
+  {
+    "id": 2927,
+    "title": "A New Mining Consensus Algorithm: A Binary Matrix Representation Based",
+    "abstract": "Abdelkader et al. recently proposed a new data representation method designed to enable efficient storage and management of diverse data types on the blockchain, guarantee scalability, cost-effectiveness, and network efficiency. They transformed a binary matrix $M$ of dimensions $m \\times n$ bits into two vectors $H$ and $V$ with sizes $m'$ and $n'$, respectively. The compression rate given by  $\\frac{(m' + n' + \\mid Hash(M) \\mid) \\times 100}{(m \\times n)}$ expands exponentially, i.e., $2^{\\lambda}$ with $\\lambda$ depends on $m$ and $n$), making their technique highly effective for data size reduction. For instance, with a matrix $M$ of size $512 \\times 512$ bits, they achieved a reduction rate of~$96.42\\%$. The conversion from $M$ to $(H, V)$ is both fast and simple. The presented paper uses these parameters to create a new consensus algorithm based on solving the challenge of recovering the original data using $H$, $V$, and $Hash(M)$ in order to determine the next miner.",
+    "authors": [
+      "Mostefa Kara",
+      "Abdelkader Laouid",
+      "Mohammad Hammoudeh",
+      "Elena Makeeva",
+      "Ahcene Bounceur"
+    ]
+  },
+  {
+    "id": 2628,
+    "title": "Capabilities of the software and information environment of the HybriLIT heterogeneous computing platform for JINR tasks",
+    "abstract": "The heterogeneous computing platform HybriLIT (LIT JINR) is a multi-component system consisting of the ''Govorun'' supercomputer, education and testing polygon, network data storage systems, as well as a number of specialized services. The platform is designed for application development, high-performance computing, data processing and storage.\r\n\r\nThe platform appears to be a fast developing system due to constant addition of new computing resources, data processing and storage systems, as well as specialized services based on new IT solutions and computing paradigms. Using the resources of the ML/DL/HPC ecosystem, the polygon for quantum computing has been developed and is being developed to solve problems related to the development of quantum algorithms. In addition to that, an information service for radiobiological research project has been developed based on ML/DL methods for analyzing the behavior and pathomorphological changes in the central nervous system of small laboratory animals exposed to ionizing radiation. Moreover, HybriLIT platform provides resources for hosting MPD EventDisplay, Parametric Database and other services for the MPD NICA mega-science project. To carry out the calculations, the resources of the ''Govorun'' supercomputer were integrated into the DIRAC interware distributed system for performing computing tasks.\r\n\r\nThe article presents a description of the software and information environment of the HybriLIT heterogeneous computing platform, and specialized services for solving JINR scientific and applied tasks.",
+    "authors": [
+      "Maxim Zuev",
+      "Anastasia Anikina",
+      "Dmitry Belyakov",
+      "Tatevik Bezhanyan",
+      "Oksana Streltsova",
+      "Maria Lubimova"
+    ]
+  },
+  {
+    "id": 2330,
+    "title": "Research of the VQ-f16 VAE latent space compression methods for FPV video stream",
+    "abstract": "The efficiency of video stream transmission links between an unmanned aerial vehicle and its operator in mobile and hybrid orbital-terrestrial communication networks directly depends on solving the problem of compressing video stream frames, while ensuring the quality of the restored image. One of the methods of frame compression is the use of variational autoencoders to transfer the latent space obtained during the processing of individual frames. The present paper is devoted to the research of how effectively different algorithms can compress quantized latent space of variational autoencoder VQ-f16 from Stable Diffusion repository. The system of quantized latent space compression algorithms efficiency indicators and their description are presented.  A comparative analysis of the efficiency of quantized latent space compression algorithms is conducted. The results of analyzing the efficiency of quantized latent space compression algorithms are presented and recommendations for improving their efficiency are given.",
+    "authors": [
+      "Alexander Chenskiy",
+      "Aleksandr Berezkin",
+      "Ruslan Kirichek",
+      "Dmitry Kukunin"
+    ]
+  },
+  {
+    "id": 2620,
+    "title": "Retrieval poisoning attack based on prompt injections to Retrieval-Augmented Generation with Active Database",
+    "abstract": "Retrieval-Augmented Generation (RAG) is a technique that enables to mitigate the limitations of LLM-based intelligent systems, such as knowledge obsolescence, hallucinations during text generation and the lack of domain-specific expertise. At the same time, the use of RAG can pose new privacy issues: data poisoning (retrieval and knowledge poisoning), prompt injections and knowledge extraction. In particular, previous studies have not sufficiently addressed the security of RAG systems with Active Database that store generated responces in a retrieval database. In this work, we propose a new way of attacks to RAG with Active Database which is based on prompt injections and retrieval poisoning. The results of experiments confirm the vulnerability of these distributed systems and the need for new defense techniques.",
+    "authors": [
+      "Yegor Anichkov",
+      "Viktor Popov",
+      "Sergey Bolovtsov"
+    ]
+  },
+  {
+    "id": 2557,
+    "title": "Prompt Injection Attacks in Defended Systems",
+    "abstract": "Large language models play a crucial role in modern natural language processing technologies. However, their extensive use also introduces potential security risks, such as the possibility of black-box attacks. These attacks can embed hidden malicious features into the model, leading to adverse consequences during its deployment.\r\n\r\nThis paper investigates methods for black-box attacks on large language models with a three-tiered defense mechanism. It analyzes the challenges and significance of these attacks, highlighting their potential implications for language processing system security. Existing attack and defense methods are examined, evaluating their effectiveness and applicability across various scenarios.\r\n\r\nSpecial attention is given to the detection algorithm for black-box attacks, identifying hazardous vulnerabilities in language models and retrieving sensitive information. This research presents a methodology for vulnerability detection and the development of defensive strategies against black-box attacks on large language models.",
+    "authors": [
+      "Daniil Homskiy",
+      "Narek Maloyan",
+      "Bulat Nutfullin"
+    ]
+  },
+  {
+    "id": 3104,
+    "title": "Development of Distributed Digital Twins of Complex Technical Objects Based on an Agent-Oriented Software Architecture",
+    "abstract": "This article presents the development of a digital twin of a complex technical object based on a distributed computing environment using an agent-oriented software architecture. The use of the distributed agent-oriented ABSynth platform allows for the integration of heterogeneous resources from cyber-physical system networks (including edge devices and high-performance computing (HPC)) into a unified computing environment. The components of the simulation model, as well as predictive analytics and fault detection, are implemented and operate in real-time, based on a library of the agent platform. A prototype of the software component of the digital twin for the wind turbine nacelle has been created. The test results have demonstrated the effectiveness of the agent-based approach in creating flexible, scalable, and fault-tolerant digital twins of complex technical objects and systems.",
+    "authors": [
+      "Alexey Kovtunenko"
+    ]
+  },
+  {
+    "id": 2618,
+    "title": "The algorithm for distributed calculating Gr\u00f6bner or involutive bases of polynomial ideals",
+    "abstract": "In this paper, a new distributed computing method is proposed for finding Gr\u00f6bner and involutive bases. A key innovation is the adaptation of a peer-to-peer network to distribute computing between multiple nodes, which allows to use a set of less powerful computers instead of high-performance servers or cloud services. This approach is especially valuable for researchers who do not have access to supercomputers. The distribution of the process, in which each node processes a certain polynomial and its combinations, effectively prevents duplication of calculations. Although the effectiveness of the proposed system requires further analysis, it already demonstrates significant potential in simplifying the calculation of bases. In addition, our work highlights the advantages of the involutive division method implemented in the GInv system, which showed higher speed in tests compared to traditional algorithms.",
+    "authors": [
+      "Anton Mamonov",
+      "Soltan Salpagarov",
+      "Blinkov Yury",
+      "Izabella Akopian"
+    ]
+  },
+  {
+    "id": 2586,
+    "title": "Discovering Topological parameters in Decentralized and Dynamically Changing Mobile Network",
+    "abstract": "Nowadays, decentralized and dynamically changing mobile networks are mostly studied in works related to FANETs and VANETs, but such networks are not designed for controlling, monitoring and providing Internet access end-to-end continuously. We are studying networks which require reliable and high-bandwidth Internet access. The network in consideration is organized using IEEE 802.11 mesh topology where each node is a heavy industrial equipment. Each node operates on area about 3 km diameter, either can forward traffic or can be a traffic source.  For such network effective routing protocol is required. But to design such protocol one should discover network topological parameters. This paper is dedicated to such parameters discovering using experiments in real environment.",
+    "authors": [
+      "Margarita Orlova",
+      "Semion Chernin",
+      "Dmitry Orlov",
+      "Olga Morozova",
+      "Leonid Abrosimov"
+    ]
+  },
+  {
+    "id": 3086,
+    "title": "Energy-Efficient Framework for Task Caching and Computation Offloading in Multi-Tier Vehicular Edge-Cloud Systems",
+    "abstract": "The proliferation of mobile Internet of Things (IoT) applications like au-\r\ntonomous vehicles and augmented reality demands processing power beyond\r\ntraditional devices. Vehicular Edge-Cloud Computing (VECC) emerges as a\r\nsolution, leveraging distributed computing resources at the network\u2019s edge (e.g.,\r\nroadside units) and the cloud for remote task execution. However, energy effi-\r\nciency remains a concern. This paper proposes an energy-efficient framework for\r\nVECC. To optimize resource utilization, a caching mechanism stores completed\r\ntasks at the edge server for faster retrieval. Additionally, an optimization model\r\nminimizes energy consumption while adhering to latency constraints during\r\ntask offloading and resource allocation. Simulations demonstrate significant\r\nenergy savings compared to existing benchmarks. This framework addresses\r\nboth energy efficiency and resource allocation challenges in VECC systems.",
+    "authors": [
+      "Ibrahim Elgendy",
+      "Abdukodir Khakimov",
+      "Ammar Muthanna"
+    ]
+  }
+]

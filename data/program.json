@@ -74,6 +74,248 @@
           "label": "Welcome Reception"
         }
       ]
+    },
+    {
+      "date": "2024-09-24",
+      "description": "Conference session",
+      "online": {
+        "links": [
+          {
+            "text": "Telemost for Track A (24.09.2024)",
+            "type": "webinar",
+            "url": "https://telemost.yandex.ru/j/95989188497129",
+            "disabled": false,
+            "track": {
+              "slug": "tra"
+            }
+          },
+          {
+            "text": "Telemost for Track B-1 (24.09.2024)",
+            "type": "webinar",
+            "url": "https://telemost.yandex.ru/j/70296155683332",
+            "disabled": false,
+            "track": {
+              "slug": "trb"
+            }
+          }
+        ]
+      },
+      "intervals": [
+        {
+          "startTime": "2024-09-24T10:00+03:00",
+          "endTime": "2024-09-24T11:00+03:00",
+          "type": "reg",
+          "label": "Registration (Room 220) up to 12:30"
+        },
+        {
+          "startTime": "2024-09-24T11:00+03:00",
+          "endTime": "2024-09-24T12:30+03:00",
+          "type": "sessions",
+          "sessions": [
+            {
+              "slug": "A-1"
+            },
+            {
+              "slug": "B-1.1"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-24T12:30+03:00",
+          "endTime": "2024-09-24T13:15+03:00",
+          "type": "break",
+          "label": "Lunch (University Canteen)"
+        },
+        {
+          "startTime": "2024-09-24T13:15+03:00",
+          "endTime": "2024-09-24T14:45+03:00",
+          "type": "sessions",
+          "sessions": [
+            {
+              "slug": "A-2"
+            },
+            {
+              "slug": "B-1.2"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-24T14:45+03:00",
+          "endTime": "2024-09-24T15:15+03:00",
+          "type": "break",
+          "label": "Coffee Break (University Canteen)"
+        },
+        {
+          "startTime": "2024-09-24T15:15+03:00",
+          "endTime": "2024-09-24T16:45+03:00",
+          "type": "sessions",
+          "sessions": [
+            {
+              "slug": "B-1.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2024-09-25",
+      "description": "Conference session",
+      "online": {
+        "links": [
+          {
+            "text": "Telemost for Track A (25.09.2024)",
+            "type": "telemost",
+            "url": "https://telemost.yandex.ru/j/95989188497129",
+            "disabled": false,
+            "track": {
+              "slug": "tra"
+            }
+          },
+          {
+            "text": "Telemost for Track B-1 (25.09.2024)",
+            "type": "telemost",
+            "url": "https://telemost.yandex.ru/j/70296155683332",
+            "disabled": false,
+            "track": {
+              "slug": "trb"
+            }
+          },
+          {
+            "text": "Telemost for Track B-2 (25.09.2024)",
+            "type": "telemost",
+            "url": "https://telemost.yandex.ru/j/95989188497129",
+            "disabled": false,
+            "track": {
+              "slug": "trb"
+            }
+          },
+          {
+            "text": "Telemost for Track C (25.09.2024)",
+            "type": "telemost",
+            "url": "https://telemost.yandex.ru/j/01242678496824",
+            "disabled": false,
+            "track": {
+              "slug": "trc"
+            }
+          }
+        ]
+      },
+      "intervals": [
+        {
+          "startTime": "2024-09-25T10:00+03:00",
+          "endTime": "2024-09-25T11:00+03:00",
+          "type": "reg",
+          "label": "Registration (Room 220) up to 12:30"
+        },
+        {
+          "startTime": "2024-09-24T11:00+03:00",
+          "endTime": "2024-09-24T12:30+03:00",
+          "type": "sessions",
+          "sessions": [
+            {
+              "slug": "B-2.1"
+            },
+            {
+              "slug": "B-1.4"
+            },
+            {
+              "slug": "C-1"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-25T12:30+03:00",
+          "endTime": "2024-09-25T13:15+03:00",
+          "type": "break",
+          "label": "Lunch (University Canteen)"
+        },
+        {
+          "startTime": "2024-09-25T13:15+03:00",
+          "endTime": "2024-09-25T14:45+03:00",
+          "type": "sessions",
+          "sessions": [
+            {
+              "slug": "B-2.2"
+            },
+            {
+              "slug": "B-1.5"
+            },
+            {
+              "slug": "C-2"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-25T14:45+03:00",
+          "endTime": "2024-09-24T15:15+03:00",
+          "type": "break",
+          "label": "Coffee Break (University Canteen)"
+        },
+        {
+          "startTime": "2024-09-25T15:15+03:00",
+          "endTime": "2024-09-25T16:45+03:00",
+          "type": "sessions",
+          "sessions": [
+            {
+              "slug": "A-3"
+            },
+            {
+              "slug": "B-1.6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2024-09-26",
+      "description": "Guided City Tour",
+      "closing": true,
+      "online": {
+        "links": [],
+        "video": null
+      },
+      "tableTitle": "Guided City Tour",
+      "intervals": [
+        {
+          "startTime": "2024-09-26T12:00+03:00",
+          "endTime": "2024-09-26T16:00+03:00",
+          "type": "special",
+          "label": "Meeting Point (at 11:45): \nmetro Chistiye Prudy => exit 1 => monument to Griboyedov\nEnd Point: metro Kitay-Gorod",
+          "chairs": []
+        }
+      ]
+    },
+    {
+      "date": "2024-09-27",
+      "description": "Conference closing day",
+      "closing": true,
+      "online": {
+        "links": [],
+        "video": null
+      },
+      "tableTitle": "Conference closing",
+      "intervals": [
+        {
+          "startTime": "2024-09-25T11:00+03:00",
+          "endTime": "2024-09-25T12:30+03:00",
+          "type": "panel",
+          "label": "Round Table with the participation of young scientists: Future networks 2030, artificial intelligence and big data (Room 219)",
+          "chairs": [
+            {
+              "slug": "vishn"
+            },
+            {
+              "slug": "sam"
+            }
+          ]
+        },
+        {
+          "startTime": "2024-09-27T12:30+03:00",
+          "endTime": "2023-09-27T12:45+03:00",
+          "type": "special",
+          "label": "DCCN closing"
+        }
+      ]
     }
   ],
   "chairs": [
@@ -263,12 +505,42 @@
       "name": "A.Mandel",
       "slug": "man",
       "appeal": "Prof."
+    },
+    {
+      "name": "V. Beschastnyi",
+      "slug": "bes",
+      "appeal": "Dr."
+    },
+    {
+      "name": "V. Begishev",
+      "slug": "beg",
+      "appeal": "Dr."
+    },
+    {
+      "name": "I. Zaryadov",
+      "slug": "zar",
+      "appeal": "Dr."
+    },
+    {
+      "name": "N. Ivanova",
+      "slug": "iva",
+      "appeal": "Dr."
+    },
+    {
+      "name": "M. Khachumov",
+      "slug": "kha",
+      "appeal": "Dr."
+    },
+    {
+      "name": "L. Sevastianov",
+      "slug": "sev",
+      "appeal": "Prof."
     }
   ],
   "common": {
     "lecture": {
       "duration": {
-        "minutes": 20
+        "minutes": 15
       }
     }
   },
@@ -276,6 +548,481 @@
     {
       "slug": "P.1",
       "label": "Plenary session"
+    },
+    {
+      "slug": "A-1",
+      "name": "A-1",
+      "track": {
+        "slug": "tra"
+      },
+      "chairs": [
+        {
+          "slug": "bes"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 3105,
+          "startTime": "2024-09-24T11:00+03:00"
+        },
+        {
+          "paperId": 3103,
+          "startTime": "2024-09-24T11:15+03:00"
+        },
+        {
+          "paperId": 3101,
+          "startTime": "2024-09-24T11:30+03:00"
+        },
+        {
+          "paperId": 2613,
+          "startTime": "2024-09-24T11:45+03:00"
+        },
+        {
+          "paperId": 2514,
+          "startTime": "2024-09-24T12:00+03:00"
+        },
+        {
+          "paperId": 2490,
+          "startTime": "2024-09-24T12:15+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "A-2",
+      "name": "A-2",
+      "track": {
+        "slug": "tra"
+      },
+      "chairs": [
+        {
+          "slug": "beg"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2928,
+          "startTime": "2024-09-24T13:15+03:00"
+        },
+        {
+          "paperId": 3100,
+          "startTime": "2024-09-24T13:30+03:00"
+        },
+        {
+          "paperId": 2630,
+          "startTime": "2024-09-24T13:45+03:00"
+        },
+        {
+          "paperId": 2930,
+          "startTime": "2024-09-24T14:00+03:00"
+        },
+        {
+          "paperId": 2945,
+          "startTime": "2024-09-24T14:15+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "B-1.1",
+      "name": "B-1.1",
+      "track": {
+        "slug": "trb1"
+      },
+      "chairs": [
+        {
+          "slug": "sop"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2351,
+          "startTime": "2024-09-24T11:00+03:00"
+        },
+        {
+          "paperId": 2524,
+          "startTime": "2024-09-24T11:15+03:00"
+        },
+        {
+          "paperId": 2550,
+          "startTime": "2024-09-24T11:30+03:00"
+        },
+        {
+          "paperId": 2862,
+          "startTime": "2024-09-24T11:45+03:00"
+        },
+        {
+          "paperId": 2858,
+          "startTime": "2024-09-24T12:00+03:00"
+        },
+        {
+          "paperId": 2500,
+          "startTime": "2024-09-24T12:15+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "B-1.2",
+      "name": "B-1.2",
+      "track": {
+        "slug": "trb1"
+      },
+      "chairs": [
+        {
+          "slug": "zar"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2571,
+          "startTime": "2024-09-24T13:15+03:00"
+        },
+        {
+          "paperId": 3084,
+          "startTime": "2024-09-24T13:30+03:00"
+        },
+        {
+          "paperId": 2560,
+          "startTime": "2024-09-24T13:45+03:00"
+        },
+        {
+          "paperId": 3123,
+          "startTime": "2024-09-24T14:00+03:00",
+          "duration": 45
+        }
+      ]
+    },
+    {
+      "slug": "B-1.3",
+      "name": "B-1.3",
+      "track": {
+        "slug": "trb1"
+      },
+      "chairs": [
+        {
+          "slug": "iva"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2442,
+          "startTime": "2024-09-24T15:15+03:00"
+        },
+        {
+          "paperId": 2866,
+          "startTime": "2024-09-24T15:30+03:00"
+        },
+        {
+          "paperId": 2597,
+          "startTime": "2024-09-24T15:45+03:00"
+        },
+        {
+          "paperId": 2631,
+          "startTime": "2024-09-24T16:00+03:00"
+        },
+        {
+          "paperId": 2885,
+          "startTime": "2024-09-24T16:15+03:00"
+        },
+        {
+          "paperId": 3128,
+          "startTime": "2024-09-24T16:30+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "A-3",
+      "name": "A-3",
+      "track": {
+        "slug": "tra"
+      },
+      "chairs": [
+        {
+          "slug": "koz"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 3102,
+          "startTime": "2024-09-25T15:15+03:00"
+        },
+        {
+          "paperId": 2408,
+          "startTime": "2024-09-25T15:30+03:00"
+        },
+        {
+          "paperId": 2775,
+          "startTime": "2024-09-25T15:45+03:00"
+        },
+        {
+          "paperId": 2439,
+          "startTime": "2024-09-25T16:00+03:00"
+        },
+        {
+          "paperId": 3133,
+          "startTime": "2024-09-25T16:15+03:00"
+        },
+        {
+          "paperId": 2888,
+          "startTime": "2024-09-25T16:30+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "B-2.1",
+      "name": "B-2.1",
+      "track": {
+        "slug": "trb2"
+      },
+      "chairs": [
+        {
+          "slug": "kha"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2926,
+          "startTime": "2024-09-25T11:00+03:00"
+        },
+        {
+          "paperId": 2925,
+          "startTime": "2024-09-25T11:15+03:00"
+        },
+        {
+          "paperId": 2456,
+          "startTime": "2024-09-25T11:30+03:00"
+        },
+        {
+          "paperId": 2566,
+          "startTime": "2024-09-25T11:45+03:00"
+        },
+        {
+          "paperId": 2575,
+          "startTime": "2024-09-25T12:00+03:00"
+        },
+        {
+          "paperId": 2461,
+          "startTime": "2024-09-25T12:15+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "B-2.2",
+      "name": "B-2.2",
+      "track": {
+        "slug": "trb2"
+      },
+      "chairs": [
+        {
+          "slug": "koz"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2467,
+          "startTime": "2024-09-25T13:15+03:00"
+        },
+        {
+          "paperId": 2625,
+          "startTime": "2024-09-25T13:30+03:00"
+        },
+        {
+          "paperId": 2528,
+          "startTime": "2024-09-25T13:45+03:00"
+        },
+        {
+          "paperId": 2589,
+          "startTime": "2024-09-25T14:00+03:00"
+        },
+        {
+          "paperId": 3099,
+          "startTime": "2024-09-25T14:15+03:00"
+        },
+        {
+          "paperId": 2590,
+          "startTime": "2024-09-25T14:30+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "B-1.4",
+      "name": "B-1.4",
+      "track": {
+        "slug": "trb1"
+      },
+      "chairs": [
+        {
+          "slug": "koc"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2572,
+          "startTime": "2024-09-25T11:00+03:00"
+        },
+        {
+          "paperId": 2766,
+          "startTime": "2024-09-25T11:15+03:00"
+        },
+        {
+          "paperId": 2963,
+          "startTime": "2024-09-25T11:30+03:00"
+        },
+        {
+          "paperId": 2962,
+          "startTime": "2024-09-25T11:45+03:00"
+        },
+        {
+          "paperId": 2551,
+          "startTime": "2024-09-25T12:00+03:00"
+        },
+        {
+          "paperId": 2518,
+          "startTime": "2024-09-25T12:15+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "B-1.5",
+      "name": "B-1.5",
+      "track": {
+        "slug": "trb1"
+      },
+      "chairs": [
+        {
+          "slug": "yug"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2506,
+          "startTime": "2024-09-25T13:15+03:00"
+        },
+        {
+          "paperId": 2453,
+          "startTime": "2024-09-25T13:30+03:00"
+        },
+        {
+          "paperId": 2510,
+          "startTime": "2024-09-25T13:45+03:00"
+        },
+        {
+          "paperId": 2462,
+          "startTime": "2024-09-25T14:00+03:00"
+        },
+        {
+          "paperId": 2763,
+          "startTime": "2024-09-25T14:15+03:00"
+        },
+        {
+          "paperId": 2527,
+          "startTime": "2024-09-25T14:30+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "B-1.6",
+      "name": "B-1.6",
+      "track": {
+        "slug": "trb1"
+      },
+      "chairs": [
+        {
+          "slug": "ema"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2460,
+          "startTime": "2024-09-25T15:15+03:00"
+        },
+        {
+          "paperId": 2507,
+          "startTime": "2024-09-25T15:30+03:00"
+        },
+        {
+          "paperId": 2616,
+          "startTime": "2024-09-25T15:45+03:00"
+        },
+        {
+          "paperId": 2607,
+          "startTime": "2024-09-25T16:00+03:00"
+        },
+        {
+          "paperId": 2546,
+          "startTime": "2024-09-25T16:15+03:00"
+        },
+        {
+          "paperId": 2511,
+          "startTime": "2024-09-25T16:30+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "C-1",
+      "name": "C-1",
+      "track": {
+        "slug": "trc"
+      },
+      "chairs": [
+        {
+          "slug": "sev"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 2615,
+          "startTime": "2024-09-25T11:00+03:00"
+        },
+        {
+          "paperId": 2927,
+          "startTime": "2024-09-25T11:15+03:00"
+        },
+        {
+          "paperId": 2628,
+          "startTime": "2024-09-25T11:30+03:00"
+        },
+        {
+          "paperId": 2330,
+          "startTime": "2024-09-25T11:45+03:00"
+        },
+        {
+          "paperId": 2620,
+          "startTime": "2024-09-25T12:00+03:00"
+        },
+        {
+          "paperId": 2557,
+          "startTime": "2024-09-25T12:15+03:00"
+        }
+      ]
+    },
+    {
+      "slug": "C-2",
+      "name": "C-2",
+      "track": {
+        "slug": "trc"
+      },
+      "chairs": [
+        {
+          "slug": "koc"
+        }
+      ],
+      "lectures": [
+        {
+          "paperId": 3104,
+          "startTime": "2024-09-25T13:15+03:00"
+        },
+        {
+          "paperId": 2618,
+          "startTime": "2024-09-25T13:30+03:00"
+        },
+        {
+          "paperId": 2586,
+          "startTime": "2024-09-25T13:45+03:00"
+        },
+        {
+          "paperId": 3086,
+          "startTime": "2024-09-25T14:00+03:00"
+        }
+      ]
     }
   ]
 }
