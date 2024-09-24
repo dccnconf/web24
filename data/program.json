@@ -247,7 +247,7 @@
         },
         {
           "startTime": "2024-09-25T14:45+03:00",
-          "endTime": "2024-09-24T15:15+03:00",
+          "endTime": "2024-09-25T15:15+03:00",
           "type": "break",
           "label": "Coffee Break (University Canteen)"
         },
@@ -263,6 +263,12 @@
               "slug": "B-1.6"
             }
           ]
+        },
+        {
+          "startTime": "2022-09-29T17:00+03:00",
+          "endTime": "2022-09-29T19:30+03:00",
+          "type": "special",
+          "label": "Gala Dinner (University Canteen)"
         }
       ]
     },
