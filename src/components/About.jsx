@@ -55,10 +55,12 @@ export default function About({ topics }) {
             <div className="h4 text-center sm:text-left mt-4 sm:mt-0 mb-3">Proceedings</div>
             <p className="md:text-xl">
               Traditionally, the accepted and presented DCCN papers are published in the Conference Proceedings volume
-              (included into the Russian Science Citation Index).&nbsp;
-              The revised selected submissions in English, recommended by the Program Committee,
-              also appear as a stand-alone volume of selected extended papers published by Springer
-              (indexed in Scopus and Web of Science).
+              (included into the Russian Science Citation Index).
+              The revised selected submissions in English, recommended by the Program Committee, also appear as a
+              stand-alone volume of selected extended papers published by Springer in the Lecture Notes in Computer
+              Science (LNCS) series (indexed in Scopus and Web of Science).
+              Previous DCCN proceedings are available on <a href="https://link.springer.com/conference/dccn"
+                                                            className="text-indigo-700" target="_blank">SpringerLink</a>.
             </p>
             <p className="md:text-xl">
               Authors of the best selected papers presented at DCCN, recommended by the Program Committee,
@@ -68,14 +70,22 @@ export default function About({ topics }) {
               to the usual standards of these journals.
             </p>
             <div className="flex flex-wrap px-4 items-center justify-center gap-4 mt-8">
-              <a href="https://www.mdpi.com/journal/mathematics/special_issues/8A8D7ML512" target="_blank" className="w-4/5 mx-auto sm:w-1/4">
-                <img src="/images/mathematics-logo.png" alt="Mathematics logo" />
+              <a href="https://link.springer.com/conference/dccn" target="_blank"
+                 className="w-3/5 mx-auto sm:w-1/5">
+                <img src="/images/lncs-logo.png" alt="LNCS logo"/>
               </a>
-              <a href="https://www.mdpi.com/journal/sensors/special_issues/Internet_Mobile_Things_Wireless_Sensor_Networks" target="_blank" className="w-4/5 mx-auto sm:w-1/4">
-                <img src="/images/sensors-logo.png" alt="Sensors logo" />
+              <a href="https://www.mdpi.com/journal/mathematics/special_issues/8A8D7ML512" target="_blank"
+                 className="w-3/5 mx-auto sm:w-1/5">
+                <img src="/images/mathematics-logo.png" alt="Mathematics logo"/>
               </a>
-              <a href="https://www.mdpi.com/journal/futureinternet/special_issues/BY09I05QOZ" target="_blank" className="w-4/5 mx-auto sm:w-1/4">
-                <img src="/images/future-internet.png" alt="Future internet logo" />
+              <a
+                href="https://www.mdpi.com/journal/sensors/special_issues/Internet_Mobile_Things_Wireless_Sensor_Networks"
+                target="_blank" className="w-3/5 mx-auto sm:w-1/5">
+                <img src="/images/sensors-logo.png" alt="Sensors logo"/>
+              </a>
+              <a href="https://www.mdpi.com/journal/futureinternet/special_issues/BY09I05QOZ" target="_blank"
+                 className="w-3/5 mx-auto sm:w-1/5">
+                <img src="/images/future-internet.png" alt="Future internet logo"/>
               </a>
             </div>
           </div>
@@ -84,7 +94,8 @@ export default function About({ topics }) {
 
       <div className="md:leading-7 md:text-xl mt-8">
         <div>
-          <img src="/images/undraw_create_f05x.svg" alt="Ideas image" className="w-4/5 sm:w-1/3 lg:w-1/4 sm:float-right mx-auto sm:ml-8 pt-3"/>
+          <img src="/images/undraw_create_f05x.svg" alt="Ideas image"
+               className="w-4/5 sm:w-1/3 lg:w-1/4 sm:float-right mx-auto sm:ml-8 pt-3"/>
           <div>
             <h4 className="h4 mb-3 text-center sm:text-left mt-4 sm:mt-0">Topics</h4>
             <p>Conference topics include, but are not limited to the these.</p>

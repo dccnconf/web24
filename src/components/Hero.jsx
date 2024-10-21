@@ -54,11 +54,11 @@ export default function Hero({ plenary }) {
               Register
             </a>
             <a
-              href="https://telemost.yandex.ru/live/0da2043b039749efa816bb2e33e9d743"
+              href="https://disk.yandex.ru/d/DJxX7aDdHoUYrw"
               className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:border-indigo-700 focus:shadow-outline-indigo transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
               target="_blank">
               <FontAwesomeIcon icon={faVideo} size="lg" className="mr-2 hidden md:block"/>
-              Join plenary session
+              Watch plenary session
             </a>
           </div>
         </div>
