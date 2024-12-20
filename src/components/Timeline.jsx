@@ -40,7 +40,7 @@ const TimelineItem = ({ iconClassName = 'bg-gray-400', headerClassName = 'text-i
         {icon && <FontAwesomeIcon icon={icon} size="lg" className="text-white" />}
       </div>
       <div className="flex-grow pl-8 lg:flex lg:items-center w-2/5">
-        <div className="lg:w-64">
+        <div className="lg:w-64 shrink-0">
           {oldDate &&
               <h3 className={`font-extrabold text-l md:text-xl line-through opacity-60 ${headerClassName}`}>
                 <Moment parse="DD.MM.YYYY" format="DD MMM YYYY">
