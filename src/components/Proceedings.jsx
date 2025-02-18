@@ -17,9 +17,6 @@ export default function Proceedings() {
               <br />
               <a className="text-blue-500" target="_blank" href="https://link.springer.com/book/10.1007/978-3-031-80853-1">https://link.springer.com/book/10.1007/978-3-031-80853-1</a>
             </p>
-            <p className="mt-8">
-              The conference participants are granted the four weeks free online access to the e-book of the LNCS proceedings.
-            </p>
           </div>
         </div>
 
