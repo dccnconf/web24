@@ -5,7 +5,7 @@ export default function Proceedings() {
     <>
       <div className="md:leading-7 md:text-xl">
         <p className="">
-          We are pleased to announce that the DCCN 2024 post-proceedings book (LNCS, <a href="https://link.springer.com/book/10.1007/978-3-031-80853-1" className=" text-indigo-700" target="_blank">volume 15460</a>) has been published by Springer Nature. The book is available online. The conference participants are granted the four weeks free online access to the e-book of the LNCS proceedings.
+          We are pleased to announce that the DCCN 2024 post-proceedings book (LNCS, <a href="http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=15460" className=" text-indigo-700" target="_blank">volume 15460</a>) has been published by Springer Nature. The book is available online. The conference participants are granted the four weeks free online access to the e-book of the LNCS proceedings.
         </p>
         <div className="flex mt-6">
           <div className="mr-5" style={{maxWidth: "140px", minWidth: "120px"}}>
