@@ -5,7 +5,8 @@ export default function Proceedings() {
     <>
       <div className="md:leading-7 md:text-xl">
         <p className="">
-          We are pleased to announce that the DCCN 2024 post-proceedings book (LNCS, <a href="http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=15460" className=" text-indigo-700" target="_blank">volume 15460</a>) has been published by Springer Nature. The book is available online. The conference participants are granted the four weeks free online access to the e-book of the LNCS proceedings.
+          We are pleased to announce that both of the DCCN 2024 post-proceedings books (LNCS, <a href="http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=15460" className=" text-indigo-700" target="_blank">volume 15460</a>, and CCIS, <a href="https://link.springer.com/book/10.1007/978-3-031-89211-0" className=" text-indigo-700" target="_blank">volume 2484</a>)
+          have been published by Springer Nature. The books are available online. The conference participants are granted the four weeks free online access to the e-books of the DCCN post-proceedings.
         </p>
         <div className="flex mt-6">
           <div className="mr-5" style={{maxWidth: "140px", minWidth: "120px"}}>
@@ -20,21 +21,18 @@ export default function Proceedings() {
           </div>
         </div>
 
-        {/*<div className="flex mt-6">*/}
-        {/*  <div className="mr-5" style={{maxWidth: "140px", minWidth: "120px"}}>*/}
-        {/*    <img src="/images/ccis_cover.png" alt="CCIS Volume cover"/>*/}
-        {/*  </div>*/}
-        {/*  <div style={{wordBreak: "break-word"}}>*/}
-        {/*    <p className="font-semibold">*/}
-        {/*      CCIS 1552:*/}
-        {/*      <br />*/}
-        {/*      <a className="text-blue-500" target="_blank" href="https://link.springer.com/book/10.1007/978-3-030-97110-6">https://link.springer.com/book/10.1007/978-3-030-97110-6</a>*/}
-        {/*    </p>*/}
-        {/*    <p className="mt-8">*/}
-        {/*      The access to the CCIS volume is granted for the period from March 7 to April 7, 2023.*/}
-        {/*    </p>*/}
-        {/*  </div>*/}
-        {/*</div>*/}
+        <div className="flex mt-6">
+          <div className="mr-5" style={{maxWidth: "140px", minWidth: "120px"}}>
+            <img src="/images/ccis_cover.png" alt="CCIS Volume cover"/>
+          </div>
+          <div style={{wordBreak: "break-word"}}>
+            <p className="font-semibold">
+              CCIS 2484:
+              <br />
+              <a className="text-blue-500" target="_blank" href="https://link.springer.com/book/10.1007/978-3-031-89211-0">https://link.springer.com/book/10.1007/978-3-031-89211-0</a>
+            </p>
+          </div>
+        </div>
       </div>
     </>
   )
